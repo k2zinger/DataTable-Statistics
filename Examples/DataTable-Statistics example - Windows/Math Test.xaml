@@ -1,0 +1,162 @@
+<Activity mc:Ignorable="sap sap2010" x:Class="Math_Test" VisualBasic.Settings="{x:Null}" sap:VirtualizedContainerService.HintSize="2128,4331" sap2010:WorkflowViewState.IdRef="Math_Test_1" xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation" xmlns:sap2010="http://schemas.microsoft.com/netfx/2010/xaml/activities/presentation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:sco="clr-namespace:System.Collections.ObjectModel;assembly=System.Private.CoreLib" xmlns:sd="clr-namespace:System.Data;assembly=System.Data.Common" xmlns:uda="clr-namespace:UiPathTeam.DataTableStatistics.Activities;assembly=UiPathTeam.DataTableStatistics.Activities" xmlns:ui="http://schemas.uipath.com/workflow/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TextExpression.NamespacesForImplementation>
+    <sco:Collection x:TypeArguments="x:String">
+      <x:String>GlobalConstantsNamespace</x:String>
+      <x:String>GlobalVariablesNamespace</x:String>
+      <x:String>Microsoft.VisualBasic</x:String>
+      <x:String>Microsoft.VisualBasic.Activities</x:String>
+      <x:String>System</x:String>
+      <x:String>System.Activities</x:String>
+      <x:String>System.Activities.Expressions</x:String>
+      <x:String>System.Activities.Statements</x:String>
+      <x:String>System.Activities.Validation</x:String>
+      <x:String>System.Activities.XamlIntegration</x:String>
+      <x:String>System.Collections</x:String>
+      <x:String>System.Collections.Generic</x:String>
+      <x:String>System.Collections.ObjectModel</x:String>
+      <x:String>System.ComponentModel</x:String>
+      <x:String>System.Data</x:String>
+      <x:String>System.Diagnostics</x:String>
+      <x:String>System.Drawing</x:String>
+      <x:String>System.IO</x:String>
+      <x:String>System.Linq</x:String>
+      <x:String>System.Net.Mail</x:String>
+      <x:String>System.Reflection</x:String>
+      <x:String>System.Runtime.InteropServices</x:String>
+      <x:String>System.Runtime.Serialization</x:String>
+      <x:String>System.Windows.Markup</x:String>
+      <x:String>System.Xml</x:String>
+      <x:String>System.Xml.Linq</x:String>
+      <x:String>System.Xml.Serialization</x:String>
+      <x:String>UiPath.Activities.Contracts</x:String>
+      <x:String>UiPath.Core</x:String>
+      <x:String>UiPath.Core.Activities</x:String>
+      <x:String>UiPathTeam.DataTableStatistics.Activities</x:String>
+    </sco:Collection>
+  </TextExpression.NamespacesForImplementation>
+  <TextExpression.ReferencesForImplementation>
+    <sco:Collection x:TypeArguments="AssemblyReference">
+      <AssemblyReference>Microsoft.Bcl.AsyncInterfaces</AssemblyReference>
+      <AssemblyReference>Microsoft.VisualBasic</AssemblyReference>
+      <AssemblyReference>mscorlib</AssemblyReference>
+      <AssemblyReference>PresentationCore</AssemblyReference>
+      <AssemblyReference>PresentationFramework</AssemblyReference>
+      <AssemblyReference>System</AssemblyReference>
+      <AssemblyReference>System.Activities</AssemblyReference>
+      <AssemblyReference>System.Collections</AssemblyReference>
+      <AssemblyReference>System.ComponentModel</AssemblyReference>
+      <AssemblyReference>System.ComponentModel.Composition</AssemblyReference>
+      <AssemblyReference>System.ComponentModel.Primitives</AssemblyReference>
+      <AssemblyReference>System.ComponentModel.TypeConverter</AssemblyReference>
+      <AssemblyReference>System.Core</AssemblyReference>
+      <AssemblyReference>System.Data</AssemblyReference>
+      <AssemblyReference>System.Data.Common</AssemblyReference>
+      <AssemblyReference>System.Data.DataSetExtensions</AssemblyReference>
+      <AssemblyReference>System.Drawing</AssemblyReference>
+      <AssemblyReference>System.Linq</AssemblyReference>
+      <AssemblyReference>System.Memory</AssemblyReference>
+      <AssemblyReference>System.ObjectModel</AssemblyReference>
+      <AssemblyReference>System.Private.CoreLib</AssemblyReference>
+      <AssemblyReference>System.Private.Xml</AssemblyReference>
+      <AssemblyReference>System.Reflection.Metadata</AssemblyReference>
+      <AssemblyReference>System.Runtime.Serialization</AssemblyReference>
+      <AssemblyReference>System.ServiceModel</AssemblyReference>
+      <AssemblyReference>System.ValueTuple</AssemblyReference>
+      <AssemblyReference>System.Xaml</AssemblyReference>
+      <AssemblyReference>System.Xml</AssemblyReference>
+      <AssemblyReference>System.Xml.Linq</AssemblyReference>
+      <AssemblyReference>UiPath.Activities.Contracts</AssemblyReference>
+      <AssemblyReference>UiPath.Studio.Constants</AssemblyReference>
+      <AssemblyReference>UiPath.System.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.UiAutomation.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.Workflow</AssemblyReference>
+      <AssemblyReference>UiPathTeam.DataTableStatistics.Activities</AssemblyReference>
+      <AssemblyReference>WindowsBase</AssemblyReference>
+    </sco:Collection>
+  </TextExpression.ReferencesForImplementation>
+  <Sequence DisplayName="TEST" sap:VirtualizedContainerService.HintSize="541,4266" sap2010:WorkflowViewState.IdRef="Sequence_2">
+    <Sequence.Variables>
+      <Variable x:TypeArguments="x:Double" Name="Sum" />
+      <Variable x:TypeArguments="sd:DataTable" Name="DT" />
+      <Variable x:TypeArguments="x:Double" Name="Average" />
+      <Variable x:TypeArguments="x:Double" Name="Maximum" />
+      <Variable x:TypeArguments="x:Double" Name="Minimum" />
+      <Variable x:TypeArguments="x:Int32" Name="UniqueCount" />
+      <Variable x:TypeArguments="x:Int32" Default="7" Name="ColumnNumber" />
+      <Variable x:TypeArguments="x:Int32" Name="DuplicateCount" />
+      <Variable x:TypeArguments="x:String" Name="Duplicates" />
+      <Variable x:TypeArguments="x:String" Name="ColumnName" />
+      <Variable x:TypeArguments="x:Int32" Name="i" />
+    </Sequence.Variables>
+    <sap:WorkflowViewStateService.ViewState>
+      <scg:Dictionary x:TypeArguments="x:String, x:Object">
+        <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+      </scg:Dictionary>
+    </sap:WorkflowViewStateService.ViewState>
+    <ui:MultipleAssign DisplayName="Multiple Assign" sap:VirtualizedContainerService.HintSize="479,147" sap2010:WorkflowViewState.IdRef="MultipleAssign_1">
+      <ui:MultipleAssign.AssignOperations>
+        <scg:List x:TypeArguments="ui:AssignOperation" Capacity="4">
+          <ui:AssignOperation sap2010:WorkflowViewState.IdRef="AssignOperation_2">
+            <ui:AssignOperation.To>
+              <OutArgument x:TypeArguments="x:String">[ColumnName]</OutArgument>
+            </ui:AssignOperation.To>
+            <ui:AssignOperation.Value>
+              <InArgument x:TypeArguments="x:String">Income</InArgument>
+            </ui:AssignOperation.Value>
+          </ui:AssignOperation>
+          <ui:AssignOperation sap2010:WorkflowViewState.IdRef="AssignOperation_1">
+            <ui:AssignOperation.To>
+              <OutArgument x:TypeArguments="x:Int32">[ColumnNumber]</OutArgument>
+            </ui:AssignOperation.To>
+            <ui:AssignOperation.Value>
+              <InArgument x:TypeArguments="x:Int32">6</InArgument>
+            </ui:AssignOperation.Value>
+          </ui:AssignOperation>
+        </scg:List>
+      </ui:MultipleAssign.AssignOperations>
+    </ui:MultipleAssign>
+    <ui:InvokeCode ContinueOnError="{x:Null}" Code=" 'Build DataTable&#xA; dt = new datatable()&#xA;    dt.Columns.AddRange(New DataColumn() {New DataColumn(&quot;Id&quot;, GetType(Integer)), _&#xA;                                           New DataColumn(&quot;Name&quot;, GetType(String)), _&#xA;             New DataColumn(&quot;Citizenship&quot;, GetType(String)), _&#xA;             New DataColumn(&quot;City&quot;, GetType(String)), _&#xA;             New DataColumn(&quot;Country&quot;, GetType(String)), _&#xA;             New DataColumn(&quot;Party&quot;, GetType(String)), _         &#xA;                                           New DataColumn(&quot;Income&quot;, GetType(Int32)), _&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;   New DataColumn(&quot;IsRightHanded&quot;, GetType(Boolean))})&#xA;    dt.Rows.Add(1, &quot;John Hammond&quot;,&quot;American&quot;,&quot;Coral Gables&quot;, &quot;United States&quot;,&quot;Independent&quot;,13245, True)&#xA;    dt.Rows.Add(2, &quot;Mudassar Khan&quot;,&quot;Indian&quot;,&quot;New Delhi&quot;, &quot;India&quot;,&quot;Independent&quot;,13245, True)&#xA;    dt.Rows.Add(3, &quot;Suzanne Mathews&quot;,&quot;French&quot;,&quot;Nice&quot;, &quot;France&quot;,&quot;Independent&quot;,136245, False)&#xA;     dt.Rows.Add(4, &quot;Suzanne Mathews&quot;,&quot;French&quot;,&quot;Nice&quot;, &quot;France&quot;,&quot;Independent&quot;,18245, False)&#xA;      dt.Rows.Add(5, &quot;Suzanne Mathews&quot;,&quot;French&quot;,&quot;Nice&quot;, &quot;France&quot;,&quot;Independent&quot;,93245, False)&#xA;       dt.Rows.Add(6, &quot;Suzanne Mathews&quot;,&quot;French&quot;,&quot;Nice&quot;, &quot;France&quot;,&quot;Independent&quot;,78245, False)&#xA;    dt.Rows.Add(7, &quot;Robert Schidner&quot;,&quot;Russian&quot;,&quot;St Petersburg&quot;,&quot;Russia&quot;,&quot;Independent&quot;,89245, True)&#xA;     dt.Rows.Add(8, &quot;Robert Schidner&quot;,&quot;Russian&quot;,&quot;St Petersburg&quot;,&quot;Russia&quot;,&quot;Independent&quot;,10045, True)" DisplayName="Invoke code" sap:VirtualizedContainerService.HintSize="479,165" sap2010:WorkflowViewState.IdRef="InvokeCode_1">
+      <ui:InvokeCode.Arguments>
+        <OutArgument x:TypeArguments="sd:DataTable" x:Key="dt">[DT]</OutArgument>
+      </ui:InvokeCode.Arguments>
+    </ui:InvokeCode>
+    <uda:GetSum ColumnNumber="{x:Null}" Sum="{x:Null}" ColumnName="[ColumnName]" DT="[DT]" DisplayName="Get Sum - Column Name " sap:VirtualizedContainerService.HintSize="479,186" sap2010:WorkflowViewState.IdRef="GetSum_1" Verbose="True" />
+    <uda:GetSum ColumnName="{x:Null}" Sum="{x:Null}" ColumnNumber="[ColumnNumber]" DT="[DT]" DisplayName="Get Sum - Column Number" sap:VirtualizedContainerService.HintSize="479,186" sap2010:WorkflowViewState.IdRef="GetSum_2" Verbose="True" />
+    <uda:GetAverage Average="{x:Null}" ColumnNumber="{x:Null}" ColumnName="[ColumnName]" DT="[DT]" DisplayName="Get Average - Column Name" sap:VirtualizedContainerService.HintSize="479,186" sap2010:WorkflowViewState.IdRef="GetAverage_1" Verbose="True" />
+    <uda:GetAverage Average="{x:Null}" ColumnName="{x:Null}" ColumnNumber="[ColumnNumber]" DT="[DT]" DisplayName="Get Average - Column Number" sap:VirtualizedContainerService.HintSize="479,186" sap2010:WorkflowViewState.IdRef="GetAverage_2" Verbose="True" />
+    <uda:GetMinMax ColumnNumber="{x:Null}" Maximum="{x:Null}" Minimum="{x:Null}" ColumnName="[ColumnName]" DT="[DT]" DisplayName="Get Minimum and Maximum - Column Name" sap:VirtualizedContainerService.HintSize="479,186" sap2010:WorkflowViewState.IdRef="GetMinMax_1" Verbose="True" />
+    <uda:GetMinMax ColumnName="{x:Null}" Maximum="{x:Null}" Minimum="{x:Null}" ColumnNumber="[ColumnNumber]" DT="[DT]" DisplayName="Get Minimum and Maximum - Column Number" sap:VirtualizedContainerService.HintSize="479,186" sap2010:WorkflowViewState.IdRef="GetMinMax_2" Verbose="True" />
+    <ui:MultipleAssign DisplayName="Multiple Assign" sap:VirtualizedContainerService.HintSize="479,147" sap2010:WorkflowViewState.IdRef="MultipleAssign_2">
+      <ui:MultipleAssign.AssignOperations>
+        <scg:List x:TypeArguments="ui:AssignOperation" Capacity="4">
+          <ui:AssignOperation sap2010:WorkflowViewState.IdRef="AssignOperation_4">
+            <ui:AssignOperation.To>
+              <OutArgument x:TypeArguments="x:String">[ColumnName]</OutArgument>
+            </ui:AssignOperation.To>
+            <ui:AssignOperation.Value>
+              <InArgument x:TypeArguments="x:String">Name</InArgument>
+            </ui:AssignOperation.Value>
+          </ui:AssignOperation>
+          <ui:AssignOperation sap2010:WorkflowViewState.IdRef="AssignOperation_3">
+            <ui:AssignOperation.To>
+              <OutArgument x:TypeArguments="x:Int32">[ColumnNumber]</OutArgument>
+            </ui:AssignOperation.To>
+            <ui:AssignOperation.Value>
+              <InArgument x:TypeArguments="x:Int32">1</InArgument>
+            </ui:AssignOperation.Value>
+          </ui:AssignOperation>
+        </scg:List>
+      </ui:MultipleAssign.AssignOperations>
+    </ui:MultipleAssign>
+    <uda:GetDuplicates ColumnNumber="{x:Null}" Count="{x:Null}" Duplicates="{x:Null}" ColumnName="[ColumnName]" DT="[DT]" DisplayName="Get Duplicates - Column Name" sap:VirtualizedContainerService.HintSize="479,186" sap2010:WorkflowViewState.IdRef="GetDuplicates_1" Verbose="True" />
+    <uda:GetDuplicates ColumnName="{x:Null}" Count="{x:Null}" Duplicates="{x:Null}" ColumnNumber="[ColumnNumber]" DT="[DT]" DisplayName="Get Duplicates - Column Number" sap:VirtualizedContainerService.HintSize="479,186" sap2010:WorkflowViewState.IdRef="GetDuplicates_2" Verbose="True" />
+    <uda:GetDuplicates ColumnName="{x:Null}" Count="{x:Null}" Duplicates="{x:Null}" ColumnNumber="7" DT="[DT]" DisplayName="Get Duplicates - Column Number 7" sap:VirtualizedContainerService.HintSize="479,186" sap2010:WorkflowViewState.IdRef="GetDuplicates_3" Verbose="True" />
+    <uda:GetDuplicates ColumnName="{x:Null}" Count="{x:Null}" Duplicates="{x:Null}" ColumnNumber="6" DT="[DT]" DisplayName="Get Duplicates - Column Number 6" sap:VirtualizedContainerService.HintSize="479,186" sap2010:WorkflowViewState.IdRef="GetDuplicates_5" Verbose="True" />
+    <uda:GetDuplicates ColumnName="{x:Null}" Count="{x:Null}" Duplicates="{x:Null}" ColumnNumber="4" DT="[DT]" DisplayName="Get Duplicates - Column Number 4" sap:VirtualizedContainerService.HintSize="479,186" sap2010:WorkflowViewState.IdRef="GetDuplicates_4" Verbose="True" />
+    <uda:GetUniqueValues ColumnNumber="{x:Null}" Count="{x:Null}" UniqueValues="{x:Null}" ColumnName="[ColumnName]" DT="[DT]" DisplayName="Get Unique Values - Column Name" sap:VirtualizedContainerService.HintSize="479,186" sap2010:WorkflowViewState.IdRef="GetUniqueValues_1" Verbose="True" />
+    <uda:GetUniqueValues ColumnName="{x:Null}" Count="{x:Null}" UniqueValues="{x:Null}" ColumnNumber="[ColumnNumber]" DT="[DT]" DisplayName="Get Unique Values - Column Number" sap:VirtualizedContainerService.HintSize="479,186" sap2010:WorkflowViewState.IdRef="GetUniqueValues_2" Verbose="True" />
+    <uda:GetUniqueValues ColumnName="{x:Null}" Count="{x:Null}" UniqueValues="{x:Null}" ColumnNumber="7" DT="[DT]" DisplayName="Get Unique Values - Column Number 7" sap:VirtualizedContainerService.HintSize="479,186" sap2010:WorkflowViewState.IdRef="GetUniqueValues_5" Verbose="True" />
+    <uda:GetUniqueValues ColumnName="{x:Null}" Count="{x:Null}" UniqueValues="{x:Null}" ColumnNumber="6" DT="[DT]" DisplayName="Get Unique Values - Column Number 6" sap:VirtualizedContainerService.HintSize="479,186" sap2010:WorkflowViewState.IdRef="GetUniqueValues_3" Verbose="True" />
+    <uda:GetUniqueValues ColumnName="{x:Null}" Count="{x:Null}" UniqueValues="{x:Null}" ColumnNumber="4" DT="[DT]" DisplayName="Get Unique Values - Column Number 4" sap:VirtualizedContainerService.HintSize="479,186" sap2010:WorkflowViewState.IdRef="GetUniqueValues_4" Verbose="True" />
+  </Sequence>
+</Activity>

@@ -1,0 +1,1000 @@
+﻿Activity,Case ID,Country,Cost,Event end,Team,User,Event ID
+Receive status update from clearing agent,110553,Germany,405.0334903,24-8-2015 10:13:45,Line management,Kiona Sanchez,1
+Send settlement instructions to clearing agent,110565,Germany,534.9090986,10/8/2015 16:43,Auto-processor,System,2
+Send settlement instructions to clearing agent,110689,Germany,917.7032735,2/9/2015 13:11,Other,Garrett Richardson,3
+Send settlement instructions to clearing agent,110745,Austria,508.6650554,12/8/2015 14:55,Other,Vivian Nielsen,4
+Receive status update from clearing agent,110939,Austria,214.9029772,19-8-2015 14:02:58,Other,Kaye Morrow,5
+Close outstanding settlement instructions and contractual journal,111155,UK,268.0718004,14-8-2015 17:08:09,Finance,Cullen Combs,6
+Close outstanding settlement instructions and contractual journal,111251,UK,88.88934108,24-8-2015 12:01:52,Finance,Cullen Combs,7
+Cancel transaction,111397,Germany,477.1131569,18-8-2015 13:00:16,Line management,Autumn Higgins,8
+Send settlement instructions to clearing agent,111418,Netherlands,254.7510941,19-8-2015 15:22:02,Other,Emmanuel Durham,9
+Receive status update from clearing agent,111459,UK,192.8352611,20-8-2015 09:37:54,Other,Oscar Medina,10
+Receive status update from clearing agent,111507,US,861.0548059,27-8-2015 11:58:44,Other,Carol Owen,11
+Close outstanding settlement instructions and contractual journal,111516,UK,754.460218,21-8-2015 18:28:46,Finance,Cullen Combs,12
+Receive status update from clearing agent,111613,Austria,588.1823333,10/9/2015 15:39,Other,Summer Bruce,13
+Close outstanding settlement instructions and contractual journal,111631,UK,589.2509812,24-8-2015 13:26:25,Finance,Cullen Combs,14
+Close outstanding settlement instructions and contractual journal,111673,UK,770.1324354,26-8-2015 14:55:44,Finance,Medge Patel,15
+Create settlement instructions,111744,UK,160.6586014,21-8-2015 15:30:37,Finance,Medge Patel,16
+Send settlement instructions to clearing agent,111788,Austria,641.2775401,4/9/2015 13:34,Other,Indigo Daugherty,17
+Receive status update from clearing agent,111854,Austria,235.1866051,27-8-2015 09:10:30,Other,Veronica Spears,18
+Receive status update from clearing agent,111855,France,843.8148189,27-8-2015 10:04:26,Other,Mona Sargent,19
+Close outstanding settlement instructions and contractual journal,111939,UK,530.117748,26-8-2015 11:28:38,Finance,Cullen Combs,20
+Close outstanding settlement instructions and contractual journal,112023,UK,819.04086,27-8-2015 11:39:18,Finance,Cullen Combs,21
+Close outstanding settlement instructions and contractual journal,112099,UK,364.1823655,16-9-2015 12:42:34,Finance,Medge Patel,22
+Receive status update from clearing agent,112153,UK,875.0386613,31-8-2015 14:56:48,Other,Kylie Guy,23
+Create settlement instructions,112252,UK,647.0849648,28-8-2015 15:00:09,Finance,Medge Patel,24
+Receive status update from clearing agent,112332,Germany,648.5947742,1/9/2015 8:01,Line management,Griffin Donaldson,25
+Close outstanding settlement instructions and contractual journal,112452,UK,986.6145237,2/9/2015 11:19,Finance,Medge Patel,26
+Send settlement instructions to clearing agent,112497,Switzerland,118.5156549,2/9/2015 10:59,Purchasing,Adria Franks,27
+Receive status update from clearing agent,112522,UK,173.9927387,16-9-2015 13:39:53,Other,Jasmine Snyder,28
+Send settlement instructions to clearing agent,112542,Germany,247.3338085,2/9/2015 11:20,Other,Chaim Perez,29
+Close outstanding settlement instructions and contractual journal,112551,Netherlands,157.7948975,4/9/2015 19:34,Controlling,Fiona Luna,30
+Cancel transaction,112613,Germany,564.7224695,2/9/2015 16:46,Line management,Autumn Higgins,31
+Place hold for authorization,112816,Germany,513.1903127,4/9/2015 10:43,Controlling,Macy Hurst,32
+Close outstanding settlement instructions and contractual journal,112821,Germany,524.1611534,9/9/2015 10:37,Controlling,Macy Hurst,33
+Receive status update from clearing agent,112848,Germany,434.9443241,9/9/2015 14:28,Line management,Eden Morrow,34
+Send settlement instructions to clearing agent,112893,US,296.8669036,8/9/2015 14:49,Other,Xander Pittman,35
+Receive status update from clearing agent,112939,US,297.5165472,10/9/2015 10:37,Other,Upton Watkins,36
+Place hold for authorization,112997,US,789.9535134,4/9/2015 13:41,Controlling,Gary Le,37
+Receive status update from clearing agent,113146,US,350.1770152,22-9-2015 09:55:25,Other,Thor Mccray,38
+Receive status update from clearing agent,113180,Germany,587.0790219,8/9/2015 15:08,Line management,Kiona Sanchez,39
+Send settlement instructions to clearing agent,113279,Austria,108.1190789,8/9/2015 11:03,Purchasing,Michael Castaneda,40
+Close outstanding settlement instructions and contractual journal,113305,Germany,809.9332282,10/9/2015 12:30,Controlling,Macy Hurst,41
+Close outstanding settlement instructions and contractual journal,113553,France,671.7577671,15-9-2015 09:55:09,Administration,Hunter Garcia,42
+Close outstanding settlement instructions and contractual journal,113573,UK,762.9193923,18-9-2015 12:44:44,Finance,Rebecca Love,43
+Send settlement instructions to clearing agent,113630,Netherlands,930.2248056,10/9/2015 11:44,Purchasing,Alden Baxter,44
+Send settlement instructions to clearing agent,113673,Netherlands,617.5998332,10/9/2015 11:59,Other,Mechelle Koch,45
+Receive status update from clearing agent,113691,Germany,601.3018085,11/9/2015 11:35,Line management,Griffin Donaldson,46
+Send settlement instructions to clearing agent,113934,France,516.7187422,16-9-2015 16:45:57,Administration,Aaron Downs,47
+Receive status update from clearing agent,113999,Germany,738.6354393,18-9-2015 13:48:17,Line management,Eden Morrow,48
+Send settlement instructions to clearing agent,114023,Austria,29.08785006,11/9/2015 13:11,Other,Uma Rocha,49
+Send settlement instructions to clearing agent,114085,Austria,220.9292886,10/9/2015 15:13,Purchasing,John Tanner,50
+Receive status update from clearing agent,114144,Austria,849.0931328,14-9-2015 09:50:37,Other,Natalie Bowen,51
+Send settlement instructions to clearing agent,114222,Germany,179.1365684,11/9/2015 14:30,Auto-processor,System,52
+Close outstanding settlement instructions and contractual journal,114241,Netherlands,918.0882341,16-9-2015 14:50:30,Controlling,Fiona Luna,53
+Place hold for authorization,114340,Germany,495.5447129,15-9-2015 08:30:11,Controlling,Clio Butler,54
+Close outstanding settlement instructions and contractual journal,114358,UK,889.4706985,21-9-2015 18:55:08,Controlling,Alan Boyer,55
+Create settlement instructions,114485,Germany,947.8110157,15-9-2015 16:30:38,Controlling,Macy Hurst,56
+Send settlement instructions to clearing agent,114516,Netherlands,664.0620202,17-9-2015 11:26:38,Purchasing,Myra Valentine,57
+Send settlement instructions to clearing agent,114579,UK,242.6988126,17-9-2015 09:26:34,Purchasing,Shoshana Malone,58
+Send settlement instructions to clearing agent,114595,Germany,68.50617835,12/10/2015 16:15,Other,Hashim Salinas,59
+Close outstanding settlement instructions and contractual journal,114603,France,943.9009063,18-9-2015 12:59:41,Administration,Hunter Garcia,60
+Place hold for authorization,114662,US,588.4115378,21-9-2015 09:38:11,Controlling,Gary Le,61
+Send settlement instructions to clearing agent,107203,Austria,141.0632745,14-7-2015 15:15:46,Other,Vivian Nielsen,62
+Receive status update from clearing agent,107315,UK,192.4754059,9/7/2015 10:01,Financial approval,Lunea Fitzgerald,63
+Create settlement instructions,107349,France,515.6687317,6/7/2015 10:31,Finance,Lars Walker,64
+Receive status update from clearing agent,107367,France,358.8103134,7/7/2015 11:46,Other,Ruby Rojas,65
+Send settlement instructions to clearing agent,107381,France,630.0026164,6/7/2015 13:15,Other,Kieran Mclaughlin,66
+Receive status update from clearing agent,107458,Germany,762.8682203,23-7-2015 13:48:27,Line management,Kiona Sanchez,67
+Send settlement instructions to clearing agent,107466,Germany,182.6384594,16-7-2015 10:52:00,Auto-processor,System,68
+Close outstanding settlement instructions and contractual journal,107706,UK,213.5882305,8/7/2015 13:54,Finance,Medge Patel,69
+Send settlement instructions to clearing agent,107739,Germany,563.1520018,9/7/2015 11:06,Purchasing,Eaton Hyde,70
+Send settlement instructions to clearing agent,107762,US,498.0470205,8/7/2015 15:08,Other,Walter Mack,71
+Receive status update from clearing agent,107864,Austria,602.709644,8/7/2015 16:45,Other,Inez Burns,72
+Receive status update from clearing agent,107926,Austria,671.1170025,9/7/2015 13:24,Other,Veronica Spears,73
+Send settlement instructions to clearing agent,107941,Germany,253.0207471,22-7-2015 11:09:47,Auto-processor,System,74
+Send settlement instructions to clearing agent,107969,Austria,436.6285564,13-7-2015 18:06:13,Other,Vivian Nielsen,75
+Receive status update from clearing agent,108010,Germany,239.1838321,26-8-2015 11:50:57,Other,Murphy Hopper,76
+Send settlement instructions to clearing agent,108157,France,280.9421323,13-7-2015 11:36:14,Administration,Aaron Downs,77
+Close outstanding settlement instructions and contractual journal,108176,Netherlands,729.9271425,27-7-2015 12:24:20,Controlling,Fiona Luna,78
+Send settlement instructions to clearing agent,108195,France,668.6962192,28-8-2015 13:27:48,Administration,Aaron Downs,79
+Receive status update from clearing agent,108273,US,186.1785181,14-7-2015 15:27:35,Financial approval,Naida Ortiz,80
+Close outstanding settlement instructions and contractual journal,108514,UK,769.7841092,17-7-2015 09:53:24,Finance,Medge Patel,81
+Send settlement instructions to clearing agent,108649,Germany,293.1561926,16-7-2015 13:51:37,Auto-processor,System,82
+Close outstanding settlement instructions and contractual journal,108720,France,861.1675042,21-7-2015 09:56:10,Administration,Hunter Garcia,83
+Cancel transaction,108793,Germany,547.8022309,17-7-2015 09:33:56,Line management,Autumn Higgins,84
+Close outstanding settlement instructions and contractual journal,108967,UK,750.7671116,22-7-2015 09:15:10,Finance,Rebecca Love,85
+Receive status update from clearing agent,109211,Netherlands,984.6773375,5/8/2015 14:53,Financial approval,Claire Frost,86
+Receive status update from clearing agent,109291,UK,584.8204115,30-7-2015 09:29:17,Other,Kylie Guy,87
+Close outstanding settlement instructions and contractual journal,109381,UK,778.625911,28-7-2015 08:29:33,Finance,Rebecca Love,88
+Close outstanding settlement instructions and contractual journal,109471,UK,743.3117588,29-7-2015 17:57:32,Finance,Medge Patel,89
+Send settlement instructions to clearing agent,109504,Germany,497.9022502,13-8-2015 12:22:18,Auto-processor,System,90
+Receive status update from clearing agent,109538,France,200.3894344,11/8/2015 10:52,Administration,Aaron Downs,91
+Close outstanding settlement instructions and contractual journal,109561,UK,982.422452,30-7-2015 10:57:44,Finance,Rebecca Love,92
+Receive status update from clearing agent,109634,Germany,649.6740125,31-7-2015 13:50:21,Financial approval,Neil Vega,93
+Receive status update from clearing agent,109655,Austria,88.38252953,30-7-2015 11:04:22,Other,Emery Clark,94
+Receive status update from clearing agent,109692,Germany,759.9810113,7/8/2015 15:52,Line management,Eden Morrow,95
+Receive status update from clearing agent,109697,UK,254.9910298,5/8/2015 16:21,Financial approval,Lunea Fitzgerald,96
+Close outstanding settlement instructions and contractual journal,109829,UK,1002.63765,4/8/2015 11:08,Finance,Medge Patel,97
+Receive status update from clearing agent,109873,US,777.4636206,4/8/2015 15:04,Financial approval,Xerxes Espinoza,98
+Receive status update from clearing agent,110058,Austria,251.1686407,7/8/2015 10:02,Other,Kaye Morrow,99
+Place hold for authorization,110064,Germany,720.1208229,5/8/2015 14:29,Controlling,Clio Butler,100
+Close outstanding settlement instructions and contractual journal,110150,UK,955.2030421,17-8-2015 10:55:06,Controlling,Alan Boyer,101
+Send settlement instructions to clearing agent,110186,UK,115.2187666,10/8/2015 17:19,Other,Oscar Medina,102
+Receive status update from clearing agent,110214,Austria,720.3465917,7/8/2015 8:51,Other,Morgan Whitfield,103
+Receive status update from clearing agent,110388,Germany,585.9566845,10/8/2015 15:33,Auto-processor,System,104
+Close outstanding settlement instructions and contractual journal,110401,France,889.359241,25-8-2015 13:28:08,Administration,Kyla Jackson,105
+Receive status update from clearing agent,110456,UK,990.6550742,10/8/2015 10:47,Other,Roanna Parsons,106
+Receive status update from clearing agent,110530,Germany,859.2197955,18-8-2015 10:54:31,Line management,Kiona Sanchez,107
+Send settlement instructions to clearing agent,114778,Austria,767.6132573,21-9-2015 13:35:39,Other,Morgan Whitfield,108
+Send settlement instructions to clearing agent,114801,Austria,899.7307909,22-9-2015 07:42:11,Other,Diana Vincent,109
+Place hold for authorization,114816,US,631.9781332,22-9-2015 18:05:50,Controlling,Gary Le,110
+Receive status update from clearing agent,114827,Germany,49.39534123,28-9-2015 13:27:10,Other,Jermaine Fernandez,111
+Receive status update from clearing agent,114905,Germany,512.8168264,29-9-2015 11:29:40,Other,Tyler Small,112
+Send settlement instructions to clearing agent,114947,Netherlands,419.7316055,23-9-2015 10:35:49,Other,Emmanuel Durham,113
+Receive status update from clearing agent,115045,UK,338.1185646,23-9-2015 11:24:27,Other,Selma Griffin,114
+Place hold for authorization,115099,UK,170.5571006,23-9-2015 15:11:46,Controlling,Alan Boyer,115
+Receive status update from clearing agent,115193,Austria,995.3696191,30-9-2015 10:54:01,Other,Raymond Mercado,116
+Cancel transaction,115254,Germany,791.191376,25-9-2015 08:50:08,Line management,Autumn Higgins,117
+Receive status update from clearing agent,115290,Austria,445.4222978,30-9-2015 15:30:17,Other,Natalie Bowen,118
+Close outstanding settlement instructions and contractual journal,115291,UK,384.1956592,5/10/2015 11:19,Finance,Rebecca Love,119
+Cancel transaction,115316,Germany,627.709745,28-9-2015 09:56:36,Line management,Autumn Higgins,120
+Receive status update from clearing agent,115437,France,491.6745863,29-9-2015 11:14:22,Financial approval,Norman Calhoun,121
+Close outstanding settlement instructions and contractual journal,115478,France,123.5847824,29-9-2015 14:23:51,Administration,Hunter Garcia,122
+Receive status update from clearing agent,115556,Austria,244.7375168,30-9-2015 12:22:22,Other,Kaye Morrow,123
+Close outstanding settlement instructions and contractual journal,115564,UK,288.905183,7/10/2015 17:41,Finance,Rebecca Love,124
+Send settlement instructions to clearing agent,115624,Netherlands,818.7600157,30-9-2015 11:12:16,Other,Haviva Hernandez,125
+Receive status update from clearing agent,115885,Austria,701.558646,6/10/2015 7:30,Other,Emery Clark,126
+Close outstanding settlement instructions and contractual journal,115994,US,661.882675,27-10-2015 15:52:48,Controlling,Knox Gonzalez,127
+Create settlement instructions,116024,Netherlands,320.925252,5/10/2015 9:00,Controlling,Fiona Luna,128
+Receive status update from clearing agent,116109,Switzerland,912.0864516,6/10/2015 12:35,Other,Jack Maynard,129
+Close outstanding settlement instructions and contractual journal,116173,Netherlands,110.9172047,12/10/2015 11:03,Controlling,Fiona Luna,130
+Receive status update from clearing agent,116458,Austria,310.7676501,8/10/2015 12:14,Other,Kaye Morrow,131
+Receive status update from clearing agent,116644,Germany,54.0886214,9/10/2015 14:25,Line management,Kiona Sanchez,132
+Place hold for authorization,116659,Germany,620.8380536,8/10/2015 14:30,Controlling,Clio Butler,133
+Close outstanding settlement instructions and contractual journal,116818,Netherlands,125.0681326,4/11/2015 15:45,Controlling,Fiona Luna,134
+Close outstanding settlement instructions and contractual journal,116832,France,147.4360833,12/10/2015 11:34,Administration,Hunter Garcia,135
+Send settlement instructions to clearing agent,116881,Austria,590.8397184,12/10/2015 9:14,Other,Uma Rocha,136
+Receive authorization and remove hold,116983,Netherlands,649.1544371,12/10/2015 14:25,Controlling,Fiona Luna,137
+Close outstanding settlement instructions and contractual journal,117010,France,303.5127934,12/10/2015 15:37,Administration,Hunter Garcia,138
+Send settlement instructions to clearing agent,117090,Austria,463.9000604,13-10-2015 11:33:14,Other,Kirk Winters,139
+Receive status update from clearing agent,117139,Germany,870.8825584,29-10-2015 20:01:13,Auto-processor,System,140
+Receive status update from clearing agent,117181,Switzerland,330.8932622,15-10-2015 14:38:46,Financial approval,Jemima Woods,141
+Cancel transaction,117265,Netherlands,940.0635469,15-10-2015 09:36:04,Line management,Kelsey Hoover,142
+Receive status update from clearing agent,117323,Netherlands,168.8012901,19-10-2015 15:04:33,Financial approval,Claire Frost,143
+Close outstanding settlement instructions and contractual journal,117349,UK,609.4672099,15-10-2015 14:41:33,Finance,Medge Patel,144
+Receive status update from clearing agent,117417,Switzerland,485.4933401,19-10-2015 08:30:07,Other,Jack Maynard,145
+Receive status update from clearing agent,117442,France,484.2993732,16-10-2015 08:58:53,Financial approval,Norman Calhoun,146
+Close outstanding settlement instructions and contractual journal,117453,UK,224.0385313,22-10-2015 15:08:55,Finance,Medge Patel,147
+Receive status update from clearing agent,117513,UK,933.1034071,28-10-2015 11:31:05,Other,Kay Farley,148
+Close outstanding settlement instructions and contractual journal,117524,Netherlands,113.0865812,19-10-2015 17:07:48,Controlling,Fiona Luna,149
+Close outstanding settlement instructions and contractual journal,117580,UK,156.6759805,19-10-2015 09:25:12,Finance,Medge Patel,150
+Receive status update from clearing agent,117596,Germany,480.0806615,10/11/2015 11:23,Auto-processor,System,151
+Create settlement instructions,117688,France,932.2877502,16-10-2015 16:15:36,Administration,Tarik Cohen,152
+Send settlement instructions to clearing agent,117879,Germany,457.7067928,20-10-2015 14:03:07,Auto-processor,System,153
+Receive status update from clearing agent,117939,Austria,943.983416,22-10-2015 14:42:25,Other,Abraham Gomez,154
+Receive status update from clearing agent,118148,US,169.3596675,22-10-2015 14:51:51,Other,Taylor Nixon,155
+Close outstanding settlement instructions and contractual journal,118186,UK,683.7309729,23-10-2015 14:44:16,Finance,Medge Patel,156
+Create settlement instructions,118220,UK,959.0028906,23-10-2015 08:45:38,Controlling,Alan Boyer,157
+Create settlement instructions,118428,UK,423.1299306,27-10-2015 16:45:29,Finance,Medge Patel,158
+Close outstanding settlement instructions and contractual journal,118590,US,686.6104225,18-11-2015 15:13:01,Controlling,Knox Gonzalez,159
+Receive status update from clearing agent,118608,Germany,711.6916523,3/11/2015 12:22,Other,Tyler Small,160
+Create settlement instructions,118632,France,79.42846309,2/11/2015 17:15,Administration,Hunter Garcia,161
+Send settlement instructions to clearing agent,118732,Germany,245.0532995,19-11-2015 13:45:49,Auto-processor,System,162
+Send settlement instructions to clearing agent,118745,Germany,976.6120271,4/11/2015 12:54,Auto-processor,System,163
+Send settlement instructions to clearing agent,118765,Netherlands,969.5876762,4/11/2015 13:13,Other,Yolanda Mcneil,164
+Create settlement instructions,118819,Germany,566.6499868,4/11/2015 12:46,Controlling,Clio Butler,165
+Receive status update from clearing agent,118862,US,948.3208013,5/11/2015 13:10,Financial approval,Xerxes Espinoza,166
+Close outstanding settlement instructions and contractual journal,118972,France,312.0686664,9/11/2015 8:48,Administration,Hunter Garcia,167
+Send settlement instructions to clearing agent,119003,Germany,775.9974911,1/12/2015 9:25,Auto-processor,System,168
+Create settlement instructions,119025,France,128.840554,5/11/2015 18:30,Administration,Tarik Cohen,169
+Send settlement instructions to clearing agent,119103,Germany,391.6601734,9/11/2015 12:59,Other,Lester Conley,170
+Receive status update from clearing agent,119187,UK,826.5696312,10/12/2015 10:02,Other,Oscar Medina,171
+Place hold for authorization,119518,Netherlands,888.5392794,20-11-2015 14:50:21,Controlling,Fiona Luna,172
+Receive status update from clearing agent,119561,UK,387.3632902,20-11-2015 10:19:11,Other,Kylie Guy,173
+Close outstanding settlement instructions and contractual journal,119696,UK,718.0855643,16-11-2015 16:37:40,Finance,Medge Patel,174
+Receive status update from clearing agent,119812,Switzerland,278.5546162,17-11-2015 14:23:19,Other,Ciaran Mitchell,175
+Create settlement instructions,119828,France,32.21999526,17-11-2015 11:15:20,Administration,Tarik Cohen,176
+Send settlement instructions to clearing agent,119843,Germany,58.09480986,31-12-2015 13:16:32,Auto-processor,System,177
+Send settlement instructions to clearing agent,119871,Germany,259.6851448,28-12-2015 11:48:59,Purchasing,Blaze Barber,178
+Receive status update from clearing agent,119900,Switzerland,351.6179055,19-11-2015 08:43:33,Other,Caesar Donaldson,179
+Create settlement instructions,120012,Germany,492.9320512,19-11-2015 12:30:05,Controlling,Macy Hurst,180
+Place hold for authorization,120024,US,887.3645546,1/12/2015 11:30,Controlling,Gary Le,181
+Receive status update from clearing agent,120180,Austria,286.6675719,24-11-2015 09:45:45,Other,Celeste Sharp,182
+Close outstanding settlement instructions and contractual journal,120253,Netherlands,419.7856121,25-11-2015 14:58:19,Controlling,Fiona Luna,183
+Send settlement instructions to clearing agent,120289,Switzerland,930.9189388,25-11-2015 10:23:14,Purchasing,Justine Monroe,184
+Send settlement instructions to clearing agent,120374,Germany,683.7180578,26-11-2015 10:10:47,Purchasing,Blaze Barber,185
+Receive status update from clearing agent,120419,Austria,843.8800516,26-11-2015 10:57:02,Other,Emery Clark,186
+Create settlement instructions,120519,France,422.9874273,25-11-2015 17:00:41,Administration,Tarik Cohen,187
+Create settlement instructions,120542,France,497.1162603,26-11-2015 12:00:37,Administration,Hunter Garcia,188
+Receive status update from clearing agent,120607,Netherlands,889.0007055,9/12/2015 14:26,Other,Colorado Trevino,189
+Receive status update from clearing agent,120662,Austria,652.9102933,30-11-2015 12:54:34,Other,Keefe Rasmussen,190
+Close outstanding settlement instructions and contractual journal,120659,UK,284.575525,9/12/2015 9:05,Finance,Cullen Combs,191
+Send settlement instructions to clearing agent,120691,France,966.5673184,30-11-2015 12:24:37,Administration,Aaron Downs,192
+Receive status update from clearing agent,120827,Germany,680.2669984,14-12-2015 14:47:59,Line management,Kiona Sanchez,193
+Close outstanding settlement instructions and contractual journal,121007,France,588.1277726,8/12/2015 14:52,Administration,Hunter Garcia,194
+Place hold for authorization,121095,Germany,979.0767373,3/12/2015 16:35,Controlling,Clio Butler,195
+Close outstanding settlement instructions and contractual journal,121119,France,544.2534816,14-12-2015 08:51:16,Administration,Hunter Garcia,196
+Place hold for authorization,121230,Netherlands,602.6772927,8/12/2015 10:50,Controlling,Fiona Luna,197
+Receive status update from clearing agent,121238,UK,519.2187234,10/12/2015 10:21,Other,Oscar Medina,198
+Receive status update from clearing agent,121358,US,49.92299713,11/12/2015 15:49,Other,Paula Duffy,199
+Receive status update from clearing agent,121450,Switzerland,219.6960032,15-12-2015 14:06:13,Other,Caesar Donaldson,200
+Create settlement instructions,121641,France,686.8519296,10/12/2015 16:15,Administration,Tarik Cohen,201
+Receive authorization and remove hold,121680,UK,647.2025584,14-12-2015 15:27:24,Controlling,Alan Boyer,202
+Send settlement instructions to clearing agent,121701,Netherlands,33.73016124,14-12-2015 11:28:54,Purchasing,Alden Baxter,203
+Receive status update from clearing agent,121759,France,271.3359387,21-12-2015 16:24:33,Other,Renee Turner,204
+Close outstanding settlement instructions and contractual journal,121890,Austria,258.7746837,16-12-2015 14:34:00,Administration,Tanner Wiggins,205
+Close outstanding settlement instructions and contractual journal,121917,UK,22.4516064,22-12-2015 17:44:45,Finance,Medge Patel,206
+Receive status update from clearing agent,121926,Germany,974.5280887,17-12-2015 07:40:36,Other,Steven Strong,207
+Close outstanding settlement instructions and contractual journal,122085,US,220.7084878,27-1-2016 15:43:52,Controlling,Gary Le,208
+Send settlement instructions to clearing agent,122201,Netherlands,321.3676784,22-12-2015 11:09:03,Other,Hammett Herman,209
+Receive status update from clearing agent,122248,Austria,615.7681412,28-12-2015 13:59:57,Other,Kaye Morrow,210
+Create settlement instructions,122250,UK,788.8544523,21-12-2015 13:16:11,Finance,Medge Patel,211
+Send settlement instructions to clearing agent,122293,Germany,58.30447084,21-1-2016 09:42:59,Auto-processor,System,212
+Send settlement instructions to clearing agent,122430,Switzerland,944.0966606,22-1-2016 09:31:03,Purchasing,Aladdin Middleton,213
+Place hold for authorization,122435,UK,827.1401565,25-12-2015 12:30:00,Controlling,Alan Boyer,214
+Close outstanding settlement instructions and contractual journal,122437,Netherlands,554.0773435,19-1-2016 08:20:42,Controlling,Fiona Luna,215
+Receive status update from clearing agent,122471,Austria,134.0569019,6/1/2016 15:30,Financial approval,Daphne Gordon,216
+Receive status update from clearing agent,122587,Germany,800.8721776,7/1/2016 14:53,Line management,Eden Morrow,217
+Receive status update from clearing agent,122602,Germany,25.73528799,25-1-2016 10:27:26,Line management,Eden Morrow,218
+Create settlement instructions,122688,UK,626.3676517,24-12-2015 17:15:16,Controlling,Alan Boyer,219
+Close outstanding settlement instructions and contractual journal,122697,France,942.7846588,29-12-2015 08:28:26,Administration,Hunter Garcia,220
+Close outstanding settlement instructions and contractual journal,122732,UK,610.7298288,28-12-2015 12:23:00,Finance,Medge Patel,221
+Receive status update from clearing agent,122801,Austria,411.0912098,5/1/2016 12:53,Financial approval,Daphne Gordon,222
+Receive status update from clearing agent,122812,Germany,728.3363776,5/1/2016 15:16,Auto-processor,System,223
+Send settlement instructions to clearing agent,122827,Germany,103.8895292,29-12-2015 10:57:43,Auto-processor,System,224
+Send settlement instructions to clearing agent,122846,France,166.1078176,29-12-2015 11:28:00,Other,Quintessa Crosby,225
+Cancel transaction,122869,Germany,953.3519378,29-12-2015 10:56:21,Line management,Autumn Higgins,226
+Close outstanding settlement instructions and contractual journal,122892,Germany,672.0346025,30-12-2015 09:24:25,Controlling,Clio Butler,227
+Receive status update from clearing agent,122960,Germany,915.0373365,29-1-2016 16:15:37,Other,Hashim Salinas,228
+Close outstanding settlement instructions and contractual journal,122984,UK,228.9617065,1/1/2016 9:45,Finance,Medge Patel,229
+Receive status update from clearing agent,123140,France,546.9233843,20-1-2016 09:28:33,Other,Keith Perez,230
+Place hold for authorization,123250,Netherlands,651.6920901,4/1/2016 9:10,Controlling,Fiona Luna,231
+Send settlement instructions to clearing agent,123379,Austria,183.7173108,5/1/2016 11:30,Purchasing,Michael Castaneda,232
+Close outstanding settlement instructions and contractual journal,123416,France,370.4815313,6/1/2016 15:15,Administration,Hunter Garcia,233
+Create settlement instructions,123589,UK,136.6119809,6/1/2016 11:45,Controlling,Alan Boyer,234
+Receive status update from clearing agent,123660,Austria,90.79668232,8/1/2016 15:29,Other,Amir Gallegos,235
+Receive status update from clearing agent,123712,Germany,271.0608724,8/1/2016 12:50,Line management,Griffin Donaldson,236
+Receive status update from clearing agent,123745,Germany,83.22171048,23-2-2016 16:13:29,Financial approval,Neil Vega,237
+Close outstanding settlement instructions and contractual journal,123762,Germany,240.8716434,22-2-2016 11:05:47,Controlling,Macy Hurst,238
+Receive status update from clearing agent,123873,Germany,24.40471975,1/2/2016 10:44,Line management,Eden Morrow,239
+Receive status update from clearing agent,123907,Germany,861.1507311,11/1/2016 13:34,Other,Colorado Ferrell,240
+Create settlement instructions,123959,UK,100.7899543,8/1/2016 14:45,Finance,Medge Patel,241
+Create settlement instructions,124135,Germany,622.3227046,11/1/2016 17:15,Finance,Sara Salas,242
+Receive status update from clearing agent,124168,Netherlands,72.1661516,19-1-2016 10:13:33,Other,Griffith Stuart,243
+Create settlement instructions,124494,Germany,848.2379247,13-1-2016 14:45:53,Finance,Sara Salas,244
+Close outstanding settlement instructions and contractual journal,124526,UK,701.004846,15-1-2016 11:38:26,Finance,Medge Patel,245
+Close outstanding settlement instructions and contractual journal,124689,UK,558.9988463,21-1-2016 14:29:37,Finance,Medge Patel,246
+Receive status update from clearing agent,124726,Switzerland,524.1822067,2/2/2016 14:48,Other,Imelda Pope,247
+Receive status update from clearing agent,124794,US,195.618917,28-1-2016 14:32:21,Financial approval,Naida Ortiz,248
+Receive status update from clearing agent,124840,Austria,337.5908005,18-1-2016 13:55:53,Other,Jason Munoz,249
+Create settlement instructions,124965,France,619.8673202,19-1-2016 08:00:10,Administration,Kyla Jackson,250
+Close outstanding settlement instructions and contractual journal,125119,UK,550.9298912,1/2/2016 11:10,Finance,Medge Patel,251
+Send settlement instructions to clearing agent,125133,Switzerland,374.4509715,21-1-2016 10:50:16,Purchasing,Adria Franks,252
+Create settlement instructions,125209,Netherlands,852.3269614,21-1-2016 09:00:25,Controlling,Fiona Luna,253
+Receive status update from clearing agent,125244,Austria,458.1243362,22-1-2016 12:03:37,Other,Kaye Morrow,254
+Send settlement instructions to clearing agent,125320,Germany,298.1120804,25-1-2016 09:40:36,Auto-processor,System,255
+Cancel transaction,125356,Germany,694.9770076,25-1-2016 14:33:53,Line management,Jamal Clarke,256
+Close outstanding settlement instructions and contractual journal,125427,UK,709.9254493,28-1-2016 11:31:43,Finance,Cullen Combs,257
+Close outstanding settlement instructions and contractual journal,125441,UK,191.2777533,17-2-2016 14:58:41,Finance,Rebecca Love,258
+Close outstanding settlement instructions and contractual journal,125482,UK,728.5792596,4/2/2016 14:24,Controlling,Alan Boyer,259
+Create settlement instructions,125532,UK,169.013851,27-1-2016 11:15:34,Finance,Cullen Combs,260
+Receive status update from clearing agent,125718,Austria,407.3028414,1/2/2016 10:57,Other,Nissim Combs,261
+Receive authorization and remove hold,125821,Netherlands,241.7388098,16-2-2016 12:18:59,Controlling,Fiona Luna,262
+Close outstanding settlement instructions and contractual journal,125877,France,173.8201097,1/2/2016 19:10,Administration,Hunter Garcia,263
+Send settlement instructions to clearing agent,125899,Switzerland,492.0048878,2/2/2016 11:16,Other,Carla Hanson,264
+Send settlement instructions to clearing agent,125926,UK,495.79072,16-3-2016 11:40:12,Other,Oscar Medina,265
+Send settlement instructions to clearing agent,125949,Austria,65.02498616,3/2/2016 12:56,Other,Alfreda Harrell,266
+Close outstanding settlement instructions and contractual journal,126030,UK,584.7158635,9/2/2016 17:51,Finance,Medge Patel,267
+Send settlement instructions to clearing agent,126093,Germany,21.3761783,9/2/2016 10:38,Auto-processor,System,268
+Receive status update from clearing agent,126134,Germany,169.6042799,22-2-2016 12:48:39,Auto-processor,System,269
+Close outstanding settlement instructions and contractual journal,126301,UK,278.889203,4/2/2016 13:41,Finance,Medge Patel,270
+Place hold for authorization,126399,Netherlands,741.8568965,15-2-2016 09:25:40,Controlling,Fiona Luna,271
+Receive status update from clearing agent,126419,Austria,353.7326031,23-2-2016 08:20:27,Financial approval,Daphne Gordon,272
+Create settlement instructions,126478,Germany,842.8039063,4/2/2016 10:47,Controlling,Macy Hurst,273
+Close outstanding settlement instructions and contractual journal,126481,Germany,98.12289413,29-2-2016 15:43:42,Controlling,Macy Hurst,274
+Receive status update from clearing agent,126509,Germany,824.9854371,3/3/2016 17:06,Line management,Eden Morrow,275
+Place hold for authorization,126532,Germany,408.1970206,4/2/2016 14:46,Controlling,Macy Hurst,276
+Receive status update from clearing agent,126575,Germany,350.5059773,10/2/2016 9:21,Auto-processor,System,277
+Receive status update from clearing agent,126614,Austria,342.3417844,10/2/2016 17:02,Other,Nissim Combs,278
+Create settlement instructions,126642,UK,79.6413197,9/2/2016 9:15,Finance,Medge Patel,279
+Create settlement instructions,126753,US,471.6494387,9/2/2016 15:00,Controlling,Gary Le,280
+Receive status update from clearing agent,126846,Austria,957.3109136,11/2/2016 15:44,Other,Nissim Combs,281
+Receive status update from clearing agent,126848,Austria,963.8595207,11/2/2016 16:10,Other,Nissim Combs,282
+Place hold for authorization,126886,Netherlands,355.4633198,18-2-2016 13:45:27,Controlling,Fiona Luna,283
+Receive status update from clearing agent,126956,Netherlands,730.7020562,17-2-2016 09:43:36,Other,Upton Mosley,284
+Receive status update from clearing agent,127020,Austria,170.464299,23-2-2016 09:22:56,Other,Kaye Morrow,285
+Receive status update from clearing agent,127022,Austria,519.8805466,26-2-2016 09:35:06,Other,Micah Berger,286
+Create settlement instructions,127165,France,10.16982479,16-2-2016 11:45:59,Administration,Aaron Downs,287
+Receive status update from clearing agent,127242,Germany,989.8346267,22-2-2016 17:30:20,Line management,Kiona Sanchez,288
+Create settlement instructions,127350,UK,958.313412,17-2-2016 16:30:30,Finance,Medge Patel,289
+Place hold for authorization,127466,Germany,491.5002421,10/3/2016 16:51,Controlling,Macy Hurst,290
+Cancel transaction,127693,Germany,656.152548,24-2-2016 07:06:00,Line management,Jamal Clarke,291
+Send settlement instructions to clearing agent,127781,Netherlands,356.1585222,25-2-2016 10:07:12,Purchasing,Alden Baxter,292
+Send settlement instructions to clearing agent,127852,Netherlands,128.286102,26-2-2016 11:48:53,Purchasing,Alden Baxter,293
+Receive status update from clearing agent,127889,US,736.4075111,10/3/2016 10:12,Other,Urielle Schultz,294
+Create settlement instructions,127994,France,557.3335497,29-2-2016 12:15:21,Administration,Hunter Garcia,295
+Receive status update from clearing agent,128056,Germany,516.4213604,10/3/2016 8:55,Line management,Griffin Donaldson,296
+Close outstanding settlement instructions and contractual journal,128061,France,618.7670643,21-3-2016 08:19:59,Finance,Lars Walker,297
+Close outstanding settlement instructions and contractual journal,128130,UK,616.4682757,4/3/2016 16:34,Controlling,Alan Boyer,298
+Receive status update from clearing agent,128201,US,102.9947317,9/3/2016 16:34,Financial approval,Naida Ortiz,299
+Send settlement instructions to clearing agent,128221,Netherlands,927.2480808,10/3/2016 12:40,Other,Briar Wells,300
+Create settlement instructions,128259,France,795.5604031,3/3/2016 15:15,Administration,Hunter Garcia,301
+Receive status update from clearing agent,128351,Germany,571.2362021,7/3/2016 10:14,Line management,Griffin Donaldson,302
+Send settlement instructions to clearing agent,128377,Netherlands,772.3629312,7/3/2016 9:20,Other,Haviva Hernandez,303
+Send settlement instructions to clearing agent,128415,Austria,630.1468784,9/3/2016 8:03,Other,Carolyn Mullins,304
+Receive status update from clearing agent,128463,Austria,652.7559407,18-3-2016 10:48:40,Financial approval,Daphne Gordon,305
+Place hold for authorization,128468,UK,139.2611074,14-3-2016 16:35:08,Controlling,Alan Boyer,306
+Receive status update from clearing agent,128493,Germany,837.5736058,18-3-2016 14:12:52,Line management,Eden Morrow,307
+Receive authorization and remove hold,128512,Germany,592.8996847,8/3/2016 10:06,Controlling,Macy Hurst,308
+Receive status update from clearing agent,128540,Switzerland,719.6153235,16-3-2016 17:11:18,Financial approval,Blythe Carpenter,309
+Close outstanding settlement instructions and contractual journal,128554,Germany,565.4239981,23-3-2016 16:54:03,Controlling,Macy Hurst,310
+Receive status update from clearing agent,128574,Austria,880.2867822,24-3-2016 12:53:17,Other,McKenzie Wells,311
+Receive status update from clearing agent,128629,Austria,194.1915849,24-3-2016 16:39:47,Other,McKenzie Wells,312
+Receive status update from clearing agent,128720,Germany,222.3767041,8/3/2016 8:52,Other,Hashim Salinas,313
+Send settlement instructions to clearing agent,128814,Switzerland,577.5916586,18-3-2016 10:58:38,Other,Caesar Donaldson,314
+Create settlement instructions,128872,UK,399.537967,15-3-2016 08:06:27,Finance,Rebecca Love,315
+Close outstanding settlement instructions and contractual journal,128934,UK,471.4644994,15-3-2016 17:56:38,Finance,Dennis Robertson,316
+Receive status update from clearing agent,128984,Austria,221.7426533,11/3/2016 14:51,Other,Natalie Bowen,317
+Receive status update from clearing agent,129000,France,377.7976987,11/3/2016 16:46,Other,Keith Perez,318
+Close outstanding settlement instructions and contractual journal,129003,UK,992.0582844,15-3-2016 13:50:17,Finance,Rebecca Love,319
+Receive status update from clearing agent,129151,Austria,417.5508805,30-3-2016 12:42:02,Other,Kaye Morrow,320
+Receive status update from clearing agent,129164,Germany,504.9651679,30-3-2016 09:38:10,Line management,Kiona Sanchez,321
+Close outstanding settlement instructions and contractual journal,129174,Germany,99.52241243,24-3-2016 10:09:31,Controlling,Cruz Abbott,322
+Receive status update from clearing agent,129248,UK,821.4976776,11/4/2016 14:06,Other,Nathan Lewis,323
+Close outstanding settlement instructions and contractual journal,129265,UK,84.43770117,16-3-2016 11:42:39,Finance,Dennis Robertson,324
+Send settlement instructions to clearing agent,129292,Austria,156.2956136,16-3-2016 13:09:44,Other,Mikayla Fields,325
+Receive status update from clearing agent,129310,UK,609.7196863,24-3-2016 14:46:20,Financial approval,Lunea Fitzgerald,326
+Create settlement instructions,129332,France,434.981771,15-3-2016 15:30:09,Administration,Aaron Downs,327
+Close outstanding settlement instructions and contractual journal,129356,UK,489.9524427,5/4/2016 12:01,Controlling,Alan Boyer,328
+Send settlement instructions to clearing agent,129418,Netherlands,297.2525313,18-3-2016 11:35:13,Purchasing,Alden Baxter,329
+Send settlement instructions to clearing agent,129528,Germany,396.7415891,5/4/2016 18:01,Auto-processor,System,330
+Send settlement instructions to clearing agent,129613,UK,246.1122672,21-3-2016 14:40:15,Other,Nathan Lewis,331
+Receive status update from clearing agent,129649,Austria,93.4116887,30-3-2016 14:12:27,Financial approval,Daphne Gordon,332
+Receive status update from clearing agent,129678,Switzerland,131.9065897,1/4/2016 8:21,Financial approval,Blythe Carpenter,333
+Send settlement instructions to clearing agent,129789,US,341.9647114,29-3-2016 18:22:54,Other,Ashely Sutton,334
+Send settlement instructions to clearing agent,129972,UK,355.7612902,30-3-2016 09:20:48,Other,Phelan Quinn,335
+Create settlement instructions,130060,UK,411.7044215,29-3-2016 15:15:16,Finance,Medge Patel,336
+Send settlement instructions to clearing agent,130109,Germany,788.4618919,1/4/2016 10:53,Other,Nathaniel Russell,337
+Send settlement instructions to clearing agent,130127,Austria,151.9013268,19-4-2016 07:07:34,Other,Kaye Morrow,338
+Send settlement instructions to clearing agent,130214,Switzerland,571.7052725,31-3-2016 12:21:55,Purchasing,Gil Bush,339
+Create settlement instructions,130260,France,465.6650822,31-3-2016 18:14:20,Finance,Lars Walker,340
+Place hold for authorization,130289,US,335.7520421,1/4/2016 15:13,Controlling,Knox Gonzalez,341
+Close outstanding settlement instructions and contractual journal,130340,France,717.8391531,5/4/2016 13:55,Administration,Hunter Garcia,342
+Close outstanding settlement instructions and contractual journal,130567,UK,700.6808855,13-4-2016 08:36:59,Finance,Medge Patel,343
+Receive status update from clearing agent,130621,Austria,187.526665,6/4/2016 18:20,Financial approval,Daphne Gordon,344
+Send settlement instructions to clearing agent,130670,Netherlands,572.5928303,6/4/2016 16:06,Other,Giacomo Noel,345
+Receive status update from clearing agent,130721,Austria,788.4304395,7/4/2016 9:07,Financial approval,Daphne Gordon,346
+Send settlement instructions to clearing agent,130755,Netherlands,870.4234973,5/4/2016 17:56,Other,Bell Blevins,347
+Close outstanding settlement instructions and contractual journal,130833,UK,464.8516451,8/4/2016 17:43,Finance,Medge Patel,348
+Create settlement instructions,130904,UK,157.0910237,6/4/2016 14:15,Finance,Medge Patel,349
+Send settlement instructions to clearing agent,131000,Germany,741.4833697,8/4/2016 8:42,Auto-processor,System,350
+Send settlement instructions to clearing agent,131034,Germany,194.3420643,13-4-2016 18:17:52,Auto-processor,System,351
+Send settlement instructions to clearing agent,131083,Switzerland,651.3799857,11/4/2016 14:15,Other,Jael Small,352
+Close outstanding settlement instructions and contractual journal,131186,France,751.02746,12/4/2016 13:00,Administration,Hunter Garcia,353
+Receive status update from clearing agent,131264,Austria,32.79509946,2/5/2016 16:04,Financial approval,Daphne Gordon,354
+Place hold for authorization,131276,UK,899.879487,15-4-2016 14:37:23,Controlling,Alan Boyer,355
+Send settlement instructions to clearing agent,131477,Netherlands,49.67934679,15-4-2016 08:38:06,Other,Yolanda Mcneil,356
+Cancel transaction,131493,Germany,648.6200308,14-4-2016 14:36:08,Line management,Autumn Higgins,357
+Cancel trade or amend upstream and repeat settlement process,131523,UK,940.646386,18-4-2016 10:37:41,Finance,Dennis Robertson,358
+Send settlement instructions to clearing agent,131545,Austria,990.4798306,2/5/2016 16:24,Purchasing,John Tanner,359
+Send settlement instructions to clearing agent,131563,UK,74.1532809,20-4-2016 16:15:33,Purchasing,Shoshana Malone,360
+Receive status update from clearing agent,131670,UK,1000.996136,27-4-2016 16:51:50,Other,Kay Farley,361
+Close outstanding settlement instructions and contractual journal,131671,Germany,555.9677992,6/5/2016 12:04,Controlling,Cruz Abbott,362
+Receive status update from clearing agent,131743,Germany,482.7207152,3/5/2016 14:22,Line management,Eden Morrow,363
+Close outstanding settlement instructions and contractual journal,131823,UK,406.7976712,25-4-2016 09:41:11,Finance,Medge Patel,364
+Receive status update from clearing agent,131980,Austria,248.5668816,25-4-2016 07:06:22,Other,Kaye Morrow,365
+Send settlement instructions to clearing agent,132114,Germany,708.8247556,3/5/2016 15:36,Auto-processor,System,366
+Send settlement instructions to clearing agent,132274,Netherlands,284.7411292,28-4-2016 11:45:57,Purchasing,Myra Valentine,367
+Close outstanding settlement instructions and contractual journal,132373,UK,423.3731193,6/5/2016 9:08,Controlling,Alan Boyer,368
+Receive status update from clearing agent,132445,Austria,369.6125163,2/5/2016 14:36,Other,Nissim Combs,369
+Receive status update from clearing agent,132469,Germany,893.6245548,5/5/2016 14:53,Line management,Kiona Sanchez,370
+Receive status update from clearing agent,132510,US,56.17669068,2/5/2016 14:48,Financial approval,Xerxes Espinoza,371
+Close outstanding settlement instructions and contractual journal,132521,UK,196.3474181,3/5/2016 10:33,Finance,Dennis Robertson,372
+Send settlement instructions to clearing agent,132571,Netherlands,536.1156979,6/5/2016 14:57,Other,Emmanuel Durham,373
+Receive status update from clearing agent,132607,Germany,141.1486079,9/5/2016 15:57,Line management,Eden Morrow,374
+Receive status update from clearing agent,132750,Netherlands,516.262458,5/5/2016 10:59,Other,Cadman Brown,375
+Cancel transaction,132796,Germany,65.83303319,5/5/2016 7:38,Line management,Autumn Higgins,376
+Receive status update from clearing agent,132850,Germany,838.0245755,6/5/2016 8:33,Line management,Eden Morrow,377
+Receive status update from clearing agent,132874,Austria,37.0799945,5/5/2016 14:30,Other,Kaye Morrow,378
+Receive status update from clearing agent,132883,Austria,172.3753629,9/5/2016 12:19,Other,Celeste Sharp,379
+Close outstanding settlement instructions and contractual journal,132925,Germany,159.3090889,10/5/2016 11:33,Controlling,Macy Hurst,380
+Close outstanding settlement instructions and contractual journal,132941,Germany,691.5499851,16-5-2016 18:43:24,Controlling,Cruz Abbott,381
+Receive status update from clearing agent,133014,Austria,763.2506208,10/5/2016 14:38,Financial approval,Daphne Gordon,382
+Cancel transaction,133112,Germany,432.4489892,5/5/2016 10:50,Line management,Jamal Clarke,383
+Close outstanding settlement instructions and contractual journal,133137,UK,426.6169651,9/5/2016 13:48,Finance,Medge Patel,384
+Receive status update from clearing agent,133147,Switzerland,832.1028332,9/5/2016 12:03,Other,Dalton Giles,385
+Close outstanding settlement instructions and contractual journal,133174,UK,376.7172079,9/5/2016 13:58,Finance,Rebecca Love,386
+Create settlement instructions,133297,France,129.1340187,5/5/2016 16:00,Administration,Hunter Garcia,387
+Receive status update from clearing agent,133398,Netherlands,286.7336706,9/5/2016 12:50,Other,Upton Mosley,388
+Close outstanding settlement instructions and contractual journal,133431,UK,285.9201316,12/5/2016 12:56,Finance,Dennis Robertson,389
+Receive status update from clearing agent,133478,Austria,721.1636544,10/5/2016 14:05,Other,Sophia Stein,390
+Send settlement instructions to clearing agent,133549,Switzerland,82.05924282,10/5/2016 14:20,Purchasing,Aladdin Middleton,391
+Close outstanding settlement instructions and contractual journal,133644,US,786.1913184,3/6/2016 18:20,Controlling,Gary Le,392
+Receive status update from clearing agent,133694,Germany,393.7828031,10/5/2016 15:17,Line management,Griffin Donaldson,393
+Close outstanding settlement instructions and contractual journal,133734,US,69.27423909,3/6/2016 16:40,Controlling,Gary Le,394
+Create settlement instructions,133851,France,30.15524468,13-5-2016 11:00:21,Finance,Lars Walker,395
+Send settlement instructions to clearing agent,133881,US,126.8798194,16-5-2016 13:43:32,Purchasing,Summer Holcomb,396
+Receive status update from clearing agent,133945,UK,420.5598498,31-5-2016 14:06:56,Other,Oscar Medina,397
+Close outstanding settlement instructions and contractual journal,133993,UK,286.9052319,19-5-2016 18:25:51,Finance,Rebecca Love,398
+Receive authorization and remove hold,134070,US,930.5698838,27-5-2016 15:49:55,Controlling,Gary Le,399
+Receive status update from clearing agent,134238,Germany,298.6939077,20-5-2016 13:04:24,Other,Anthony Mcguire,400
+Receive status update from clearing agent,134260,Austria,71.41647005,1/6/2016 15:53,Other,Morgan Whitfield,401
+Send settlement instructions to clearing agent,134423,Switzerland,122.9647303,25-5-2016 12:44:17,Purchasing,Adria Franks,402
+Receive status update from clearing agent,134538,Austria,984.631071,2/6/2016 17:25,Financial approval,Daphne Gordon,403
+Close outstanding settlement instructions and contractual journal,134546,France,186.3380997,15-6-2016 07:33:11,Administration,Hunter Garcia,404
+Create settlement instructions,134606,Germany,593.5717977,30-5-2016 10:30:12,Controlling,Macy Hurst,405
+Close outstanding settlement instructions and contractual journal,134645,UK,362.4197648,31-5-2016 11:34:01,Finance,Medge Patel,406
+Send settlement instructions to clearing agent,134775,Switzerland,481.0713873,6/6/2016 15:09,Purchasing,Justine Monroe,407
+Create settlement instructions,134810,UK,166.7064503,1/6/2016 14:16,Finance,Medge Patel,408
+Close outstanding settlement instructions and contractual journal,134828,UK,976.4519476,6/6/2016 11:23,Finance,Medge Patel,409
+Receive status update from clearing agent,134900,Switzerland,100.3121677,13-6-2016 11:46:24,Other,Beverly Gonzales,410
+Close outstanding settlement instructions and contractual journal,134923,UK,150.4021165,6/6/2016 12:19,Finance,Cullen Combs,411
+Create settlement instructions,134947,UK,115.6723554,3/6/2016 11:30,Finance,Medge Patel,412
+Receive status update from clearing agent,135092,Austria,368.3598007,10/6/2016 15:32,Financial approval,Daphne Gordon,413
+Place hold for authorization,135119,Germany,670.3342388,6/6/2016 16:50,Controlling,Macy Hurst,414
+Receive status update from clearing agent,135195,Austria,934.5508654,13-6-2016 12:00:55,Financial approval,Daphne Gordon,415
+Close outstanding settlement instructions and contractual journal,135198,Germany,478.211843,23-6-2016 10:21:29,Controlling,Macy Hurst,416
+Send settlement instructions to clearing agent,135216,Austria,572.3518277,13-6-2016 12:05:37,Other,Tatyana Howe,417
+Receive status update from clearing agent,135228,Germany,966.9910061,14-6-2016 14:41:01,Other,Colorado Ferrell,418
+Receive status update from clearing agent,135251,Germany,798.6195674,13-6-2016 07:04:02,Line management,Griffin Donaldson,419
+Send settlement instructions to clearing agent,135270,UK,592.967015,7/6/2016 8:28,Other,Nathan Lewis,420
+Send settlement instructions to clearing agent,135348,UK,222.481909,23-6-2016 17:48:07,Financial approval,Lunea Fitzgerald,421
+Create settlement instructions,135459,UK,544.0773806,9/6/2016 12:15,Finance,Rebecca Love,422
+Close outstanding settlement instructions and contractual journal,135566,UK,439.4813184,15-6-2016 17:12:50,Finance,Medge Patel,423
+Close outstanding settlement instructions and contractual journal,135662,France,898.4935445,21-6-2016 12:43:04,Finance,Lars Walker,424
+Place hold for authorization,135810,Germany,648.7122258,15-6-2016 15:12:28,Controlling,Macy Hurst,425
+Receive status update from clearing agent,135915,US,1003.157922,17-6-2016 13:24:56,Financial approval,Naida Ortiz,426
+Close outstanding settlement instructions and contractual journal,135976,UK,187.1385448,20-6-2016 13:19:02,Finance,Rebecca Love,427
+Receive status update from clearing agent,136018,Austria,168.1595923,17-6-2016 10:15:59,Financial approval,Daphne Gordon,428
+Send settlement instructions to clearing agent,136162,Netherlands,676.3549482,21-6-2016 12:05:47,Purchasing,Alden Baxter,429
+Close outstanding settlement instructions and contractual journal,136217,UK,866.401544,22-6-2016 15:30:14,Finance,Medge Patel,430
+Receive status update from clearing agent,110541,Germany,642.491736,29-8-2015 10:53:54,Line management,Kiona Sanchez,431
+Place hold for authorization,111346,Netherlands,466.7081031,18-8-2015 10:01:59,Controlling,Fiona Luna,432
+Close outstanding settlement instructions and contractual journal,111683,UK,819.5838931,26-8-2015 15:52:21,Finance,Medge Patel,433
+Close outstanding settlement instructions and contractual journal,111755,UK,287.5238494,31-8-2015 11:20:55,Finance,Medge Patel,434
+Close outstanding settlement instructions and contractual journal,111756,UK,768.5294312,26-8-2015 13:00:19,Finance,Medge Patel,435
+Close outstanding settlement instructions and contractual journal,111757,UK,99.52297861,26-8-2015 15:51:29,Finance,Medge Patel,436
+Close outstanding settlement instructions and contractual journal,112189,Netherlands,869.3715328,28-8-2015 15:25:15,Controlling,Fiona Luna,437
+Close outstanding settlement instructions and contractual journal,112190,Netherlands,512.6280577,2/9/2015 10:00,Controlling,Fiona Luna,438
+Close outstanding settlement instructions and contractual journal,112493,UK,582.7949201,2/9/2015 17:24,Finance,Medge Patel,439
+Close outstanding settlement instructions and contractual journal,112494,UK,737.5272666,3/9/2015 11:57,Finance,Medge Patel,440
+Receive status update from clearing agent,112601,Austria,337.669714,3/9/2015 15:37,Other,Nissim Combs,441
+Receive status update from clearing agent,112730,Germany,203.4088285,7/9/2015 17:28,Line management,Kiona Sanchez,442
+Place hold for authorization,113139,Netherlands,764.6626708,8/9/2015 9:27,Controlling,Fiona Luna,443
+Receive status update from clearing agent,113215,Germany,5.990158815,15-9-2015 12:32:12,Line management,Eden Morrow,444
+Receive status update from clearing agent,113847,Germany,926.6696452,15-9-2015 12:12:12,Line management,Eden Morrow,445
+Close outstanding settlement instructions and contractual journal,114065,Netherlands,97.31041889,14-9-2015 09:56:39,Controlling,Fiona Luna,446
+Close outstanding settlement instructions and contractual journal,114066,Netherlands,117.2476984,14-9-2015 09:56:28,Controlling,Fiona Luna,447
+Close outstanding settlement instructions and contractual journal,114351,Netherlands,931.6246335,21-9-2015 18:54:12,Controlling,Fiona Luna,448
+Close outstanding settlement instructions and contractual journal,114352,Netherlands,898.5069568,21-9-2015 18:54:59,Controlling,Fiona Luna,449
+Close outstanding settlement instructions and contractual journal,114354,Netherlands,360.7195943,17-9-2015 16:46:29,Controlling,Fiona Luna,450
+Close outstanding settlement instructions and contractual journal,107156,UK,782.6167163,6/7/2015 15:04,Finance,Medge Patel,451
+Close outstanding settlement instructions and contractual journal,107157,UK,933.7869939,9/7/2015 17:18,Finance,Medge Patel,452
+Close outstanding settlement instructions and contractual journal,107732,UK,79.35509104,8/7/2015 14:07,Finance,Medge Patel,453
+Close outstanding settlement instructions and contractual journal,107733,UK,890.4294509,8/7/2015 14:07,Finance,Medge Patel,454
+Close outstanding settlement instructions and contractual journal,107734,UK,286.2646144,8/7/2015 14:05,Finance,Medge Patel,455
+Close outstanding settlement instructions and contractual journal,107735,UK,639.708854,8/7/2015 14:09,Finance,Medge Patel,456
+Close outstanding settlement instructions and contractual journal,108523,UK,412.0573016,21-7-2015 16:54:43,Finance,Medge Patel,457
+Close outstanding settlement instructions and contractual journal,108524,UK,378.985072,16-7-2015 15:58:50,Finance,Medge Patel,458
+Receive status update from clearing agent,108583,Austria,579.2775727,20-7-2015 07:16:18,Other,Kaye Morrow,459
+Close outstanding settlement instructions and contractual journal,109226,UK,260.9060287,24-7-2015 13:39:54,Finance,Medge Patel,460
+Close outstanding settlement instructions and contractual journal,109433,UK,439.6432642,28-7-2015 12:03:37,Finance,Medge Patel,461
+Close outstanding settlement instructions and contractual journal,109435,UK,209.0980186,27-7-2015 17:30:02,Finance,Medge Patel,462
+Receive status update from clearing agent,109530,Austria,107.1538708,28-7-2015 13:37:51,Other,Kaye Morrow,463
+Receive status update from clearing agent,110321,Austria,284.3302266,10/8/2015 7:38,Other,Emery Clark,464
+Close outstanding settlement instructions and contractual journal,114929,Netherlands,764.425212,23-9-2015 17:53:02,Controlling,Fiona Luna,465
+Close outstanding settlement instructions and contractual journal,115040,Netherlands,725.7324959,23-9-2015 10:32:28,Controlling,Fiona Luna,466
+Close outstanding settlement instructions and contractual journal,115041,Netherlands,209.9493843,23-9-2015 10:35:03,Controlling,Fiona Luna,467
+Close outstanding settlement instructions and contractual journal,115042,Netherlands,835.3903248,23-9-2015 10:31:17,Controlling,Fiona Luna,468
+Close outstanding settlement instructions and contractual journal,115043,Netherlands,715.0181583,23-9-2015 15:18:27,Controlling,Fiona Luna,469
+Close outstanding settlement instructions and contractual journal,115219,UK,315.237546,28-9-2015 15:25:26,Finance,Medge Patel,470
+Close outstanding settlement instructions and contractual journal,115220,UK,377.1079494,2/10/2015 16:59,Finance,Medge Patel,471
+Close outstanding settlement instructions and contractual journal,115222,UK,527.6261023,29-9-2015 17:28:48,Finance,Medge Patel,472
+Close outstanding settlement instructions and contractual journal,115675,UK,498.9274639,8/10/2015 17:07,Finance,Medge Patel,473
+Receive status update from clearing agent,115996,Germany,427.5146847,13-10-2015 08:10:52,Line management,Kiona Sanchez,474
+Receive status update from clearing agent,116068,Germany,298.9790354,8/10/2015 15:19,Line management,Kiona Sanchez,475
+Receive status update from clearing agent,116094,Germany,700.773116,8/10/2015 15:01,Line management,Kiona Sanchez,476
+Close outstanding settlement instructions and contractual journal,116975,Netherlands,494.812271,22-10-2015 15:16:26,Controlling,Fiona Luna,477
+Close outstanding settlement instructions and contractual journal,118296,UK,605.2211265,28-10-2015 12:46:36,Finance,Medge Patel,478
+Close outstanding settlement instructions and contractual journal,118559,UK,97.19359716,5/11/2015 19:29,Finance,Medge Patel,479
+Close outstanding settlement instructions and contractual journal,118560,UK,236.8361,5/11/2015 19:31,Finance,Medge Patel,480
+Close outstanding settlement instructions and contractual journal,118561,UK,912.598949,19-11-2015 19:18:27,Finance,Medge Patel,481
+Close outstanding settlement instructions and contractual journal,118562,UK,933.1933709,4/11/2015 12:52,Finance,Medge Patel,482
+Close outstanding settlement instructions and contractual journal,118563,UK,950.0823716,13-11-2015 15:11:41,Finance,Medge Patel,483
+Close outstanding settlement instructions and contractual journal,118564,UK,464.652568,13-11-2015 15:10:45,Finance,Medge Patel,484
+Close outstanding settlement instructions and contractual journal,121879,Netherlands,33.67144901,4/3/2016 15:02,Controlling,Fiona Luna,485
+Receive status update from clearing agent,122519,Austria,574.1458867,11/2/2016 14:44,Other,Nissim Combs,486
+Receive status update from clearing agent,122595,Germany,492.9617352,8/1/2016 12:31,Line management,Eden Morrow,487
+Place hold for authorization,122799,Netherlands,484.4377509,29-12-2015 08:07:55,Controlling,Fiona Luna,488
+Close outstanding settlement instructions and contractual journal,122806,Netherlands,105.7663926,1/1/2016 16:52,Controlling,Fiona Luna,489
+Close outstanding settlement instructions and contractual journal,122808,Netherlands,604.7015826,29-12-2015 17:09:37,Controlling,Fiona Luna,490
+Receive status update from clearing agent,122957,Austria,1001.444312,1/1/2016 9:36,Other,Rowan Curry,491
+Receive status update from clearing agent,123011,Germany,939.3984174,20-1-2016 10:37:10,Line management,Kiona Sanchez,492
+Close outstanding settlement instructions and contractual journal,123246,Netherlands,949.5646939,4/1/2016 10:03,Controlling,Fiona Luna,493
+Close outstanding settlement instructions and contractual journal,123247,Netherlands,137.0274861,18-1-2016 16:27:52,Controlling,Fiona Luna,494
+Close outstanding settlement instructions and contractual journal,123248,Netherlands,322.0841617,18-1-2016 16:27:01,Controlling,Fiona Luna,495
+Close outstanding settlement instructions and contractual journal,123249,Netherlands,163.9516431,18-1-2016 16:28:31,Controlling,Fiona Luna,496
+Close outstanding settlement instructions and contractual journal,123525,Netherlands,230.0762914,12/1/2016 14:08,Controlling,Fiona Luna,497
+Close outstanding settlement instructions and contractual journal,123526,Netherlands,849.7391671,12/1/2016 14:11,Controlling,Fiona Luna,498
+Close outstanding settlement instructions and contractual journal,123527,Netherlands,753.9750092,11/1/2016 11:08,Controlling,Fiona Luna,499
+Close outstanding settlement instructions and contractual journal,123528,Netherlands,666.3120149,12/1/2016 14:09,Controlling,Fiona Luna,500
+Close outstanding settlement instructions and contractual journal,123529,Netherlands,859.0092168,12/1/2016 14:10,Controlling,Fiona Luna,501
+Close outstanding settlement instructions and contractual journal,123530,Netherlands,300.6531588,18-1-2016 16:33:37,Controlling,Fiona Luna,502
+Close outstanding settlement instructions and contractual journal,123531,Netherlands,969.7790444,18-1-2016 16:34:53,Controlling,Fiona Luna,503
+Close outstanding settlement instructions and contractual journal,123532,Netherlands,215.8173326,18-1-2016 16:28:56,Controlling,Fiona Luna,504
+Close outstanding settlement instructions and contractual journal,123533,Netherlands,27.955724,12/1/2016 14:10,Controlling,Fiona Luna,505
+Receive status update from clearing agent,124146,Austria,149.5236034,10/2/2016 14:51,Financial approval,Daphne Gordon,506
+Place hold for authorization,124163,Netherlands,95.44502161,12/1/2016 9:03,Controlling,Fiona Luna,507
+Receive status update from clearing agent,126503,Austria,721.8794733,24-2-2016 18:51:58,Financial approval,Daphne Gordon,508
+Receive status update from clearing agent,126793,Austria,277.274509,11/2/2016 16:11,Other,Celeste Sharp,509
+Close outstanding settlement instructions and contractual journal,127793,UK,929.3333626,25-2-2016 16:31:19,Finance,Medge Patel,510
+Receive status update from clearing agent,128856,Austria,640.3836122,11/3/2016 14:27,Other,Natalie Bowen,511
+Receive status update from clearing agent,128903,Austria,727.1603137,25-3-2016 15:08:02,Other,Tatyana Howe,512
+Receive status update from clearing agent,129285,France,162.6473504,21-3-2016 15:50:15,Administration,Aaron Downs,513
+Close outstanding settlement instructions and contractual journal,129626,UK,320.9387734,23-3-2016 18:37:14,Finance,Medge Patel,514
+Close outstanding settlement instructions and contractual journal,129622,UK,551.705097,29-3-2016 11:21:13,Finance,Medge Patel,515
+Close outstanding settlement instructions and contractual journal,130377,UK,946.5809564,5/4/2016 12:42,Finance,Medge Patel,516
+Close outstanding settlement instructions and contractual journal,130378,UK,898.5951809,5/4/2016 12:42,Finance,Medge Patel,517
+Close outstanding settlement instructions and contractual journal,130379,UK,517.4013111,5/4/2016 8:45,Finance,Medge Patel,518
+Close outstanding settlement instructions and contractual journal,130380,UK,930.9279799,6/4/2016 9:33,Finance,Medge Patel,519
+Close outstanding settlement instructions and contractual journal,130381,UK,716.3676342,5/4/2016 9:19,Finance,Medge Patel,520
+Close outstanding settlement instructions and contractual journal,130492,UK,814.5673058,14-4-2016 15:18:33,Finance,Medge Patel,521
+Close outstanding settlement instructions and contractual journal,130493,UK,676.43118,8/4/2016 12:52,Finance,Medge Patel,522
+Close outstanding settlement instructions and contractual journal,130494,UK,72.21561769,11/4/2016 10:08,Finance,Medge Patel,523
+Close outstanding settlement instructions and contractual journal,130495,UK,672.8848616,12/4/2016 9:08,Finance,Medge Patel,524
+Close outstanding settlement instructions and contractual journal,130496,UK,278.8196311,8/4/2016 12:50,Finance,Medge Patel,525
+Close outstanding settlement instructions and contractual journal,130497,UK,837.4719373,8/4/2016 12:51,Finance,Medge Patel,526
+Receive status update from clearing agent,132254,Austria,591.2563928,5/5/2016 16:52,Financial approval,Daphne Gordon,527
+Close outstanding settlement instructions and contractual journal,132408,UK,808.3709507,3/5/2016 22:38,Finance,Medge Patel,528
+Close outstanding settlement instructions and contractual journal,132409,UK,384.2236465,25-5-2016 10:27:06,Finance,Medge Patel,529
+Receive status update from clearing agent,132410,Austria,424.5676117,29-4-2016 12:13:16,Other,Kaye Morrow,530
+Receive status update from clearing agent,133094,Austria,598.2311486,5/5/2016 10:49,Other,Micah Berger,531
+Receive status update from clearing agent,134122,Austria,803.6354167,3/6/2016 12:39,Financial approval,Daphne Gordon,532
+Close outstanding settlement instructions and contractual journal,134830,UK,344.8229069,2/6/2016 11:06,Finance,Medge Patel,533
+Receive status update from clearing agent,135236,Germany,428.4799792,23-6-2016 15:23:03,Line management,Eden Morrow,534
+Close outstanding settlement instructions and contractual journal,135934,UK,908.6380788,23-6-2016 14:29:04,Finance,Medge Patel,535
+Close outstanding settlement instructions and contractual journal,109144,UK,117.0230494,23-7-2015 12:50:31,Finance,Medge Patel,536
+Close outstanding settlement instructions and contractual journal,134832,UK,171.6259219,2/6/2016 18:06,Finance,Medge Patel,537
+Receive authorization and remove hold,110533,US,873.5637762,10/8/2015 17:15,Controlling,Knox Gonzalez,538
+Send settlement instructions to clearing agent,110533,Germany,610.8909892,10/8/2015 17:16,Auto-processor,System,539
+Send settlement instructions to clearing agent,110533,US,902.5650856,17-8-2015 17:18:59,Other,Wendy Munoz,540
+Receive status update from clearing agent,110533,Germany,868.6134116,18-8-2015 10:52:50,Line management,Kiona Sanchez,541
+Create settlement instructions,110534,US,261.5185044,10/8/2015 14:02,Controlling,Knox Gonzalez,542
+Place hold for authorization,110534,US,219.9826765,10/8/2015 17:16,Controlling,Knox Gonzalez,543
+Receive authorization and remove hold,110534,US,182.0813983,10/8/2015 17:16,Controlling,Knox Gonzalez,544
+Send settlement instructions to clearing agent,110534,Germany,356.4462006,10/8/2015 17:19,Auto-processor,System,545
+Send settlement instructions to clearing agent,110534,US,585.6644406,17-8-2015 17:21:59,Other,Wendy Munoz,546
+Receive status update from clearing agent,110534,Germany,690.3697852,18-8-2015 10:29:55,Line management,Kiona Sanchez,547
+Create settlement instructions,110535,US,380.7857488,10/8/2015 14:03,Controlling,Knox Gonzalez,548
+Place hold for authorization,110535,US,509.0696294,10/8/2015 16:54,Controlling,Knox Gonzalez,549
+Receive authorization and remove hold,110535,US,113.1197858,10/8/2015 16:54,Controlling,Knox Gonzalez,550
+Send settlement instructions to clearing agent,110535,Germany,387.4301984,10/8/2015 16:54,Auto-processor,System,551
+Send settlement instructions to clearing agent,110535,Germany,488.211746,17-8-2015 16:54:59,Auto-processor,System,552
+Send settlement instructions to clearing agent,110535,Germany,810.0156954,20-8-2015 16:55:29,Auto-processor,System,553
+Receive authorization and remove hold,110535,US,435.3029124,24-8-2015 16:58:09,Controlling,Knox Gonzalez,554
+Send settlement instructions to clearing agent,110535,Germany,960.5836995,24-8-2015 17:03:12,Auto-processor,System,555
+Send settlement instructions to clearing agent,110535,Switzerland,264.9291987,31-8-2015 17:04:18,Other,Barrett Witt,556
+Receive status update from clearing agent,110535,Germany,125.4747454,2/9/2015 14:05,Line management,Kiona Sanchez,557
+Create settlement instructions,110536,US,447.2206707,10/8/2015 14:03,Controlling,Knox Gonzalez,558
+Place hold for authorization,110536,US,750.0316035,10/8/2015 16:55,Controlling,Knox Gonzalez,559
+Receive authorization and remove hold,110536,US,697.3860976,10/8/2015 16:55,Controlling,Knox Gonzalez,560
+Send settlement instructions to clearing agent,110536,Germany,480.3706747,10/8/2015 16:56,Auto-processor,System,561
+Send settlement instructions to clearing agent,110536,Germany,637.4852363,17-8-2015 16:57:59,Auto-processor,System,562
+Send settlement instructions to clearing agent,110536,Germany,241.9449651,20-8-2015 16:58:29,Auto-processor,System,563
+Receive authorization and remove hold,110536,US,246.8409402,24-8-2015 17:01:09,Controlling,Knox Gonzalez,564
+Send settlement instructions to clearing agent,110536,Germany,513.2407841,24-8-2015 17:03:58,Auto-processor,System,565
+Send settlement instructions to clearing agent,110536,Switzerland,743.7449505,31-8-2015 17:04:19,Other,Barrett Witt,566
+Receive status update from clearing agent,110536,Germany,283.6441413,2/9/2015 14:35,Line management,Kiona Sanchez,567
+Create settlement instructions,110537,US,100.7830933,10/8/2015 14:03,Controlling,Knox Gonzalez,568
+Place hold for authorization,110537,US,68.62152239,10/8/2015 16:56,Controlling,Knox Gonzalez,569
+Receive authorization and remove hold,110537,US,698.5554678,10/8/2015 16:56,Controlling,Knox Gonzalez,570
+Send settlement instructions to clearing agent,110537,Germany,357.6739881,10/8/2015 16:59,Auto-processor,System,571
+Send settlement instructions to clearing agent,110537,Germany,434.2229708,17-8-2015 17:00:59,Auto-processor,System,572
+Send settlement instructions to clearing agent,110537,Germany,213.8005719,20-8-2015 17:01:29,Auto-processor,System,573
+Receive authorization and remove hold,110537,US,161.0914036,24-8-2015 17:04:09,Controlling,Knox Gonzalez,574
+Send settlement instructions to clearing agent,110537,Germany,209.4434827,24-8-2015 17:13:24,Auto-processor,System,575
+Send settlement instructions to clearing agent,110537,Switzerland,863.7728439,31-8-2015 17:15:54,Other,Barrett Witt,576
+Receive status update from clearing agent,110537,Germany,697.411258,2/9/2015 14:02,Line management,Kiona Sanchez,577
+Create settlement instructions,110538,US,159.5318176,10/8/2015 14:04,Controlling,Knox Gonzalez,578
+Place hold for authorization,110538,US,429.571697,10/8/2015 17:00,Controlling,Knox Gonzalez,579
+Receive authorization and remove hold,110538,US,640.3343171,10/8/2015 17:00,Controlling,Knox Gonzalez,580
+Send settlement instructions to clearing agent,110538,Germany,973.3976378,10/8/2015 17:01,Auto-processor,System,581
+Send settlement instructions to clearing agent,110538,Germany,538.8560726,17-8-2015 17:03:59,Auto-processor,System,582
+Send settlement instructions to clearing agent,110538,Germany,63.16155903,20-8-2015 17:04:29,Auto-processor,System,583
+Receive authorization and remove hold,110538,US,405.6305351,24-8-2015 17:07:09,Controlling,Knox Gonzalez,584
+Send settlement instructions to clearing agent,110538,Germany,771.8580842,24-8-2015 17:13:43,Auto-processor,System,585
+Send settlement instructions to clearing agent,110538,Switzerland,824.2641558,31-8-2015 17:15:55,Other,Barrett Witt,586
+Receive status update from clearing agent,110538,Germany,627.4494695,2/9/2015 13:58,Line management,Kiona Sanchez,587
+Create settlement instructions,110539,US,33.75451361,10/8/2015 14:04,Controlling,Knox Gonzalez,588
+Place hold for authorization,110539,US,871.9727321,10/8/2015 17:01,Controlling,Knox Gonzalez,589
+Receive authorization and remove hold,110539,US,674.3435868,10/8/2015 17:01,Controlling,Knox Gonzalez,590
+Send settlement instructions to clearing agent,110539,Germany,171.5808043,10/8/2015 17:02,Auto-processor,System,591
+Send settlement instructions to clearing agent,110539,Germany,746.3986749,17-8-2015 17:04:00,Auto-processor,System,592
+Send settlement instructions to clearing agent,110539,Germany,495.3893845,20-8-2015 17:04:29,Auto-processor,System,593
+Receive authorization and remove hold,110539,US,298.8329351,24-8-2015 17:07:10,Controlling,Knox Gonzalez,594
+Send settlement instructions to clearing agent,110539,Germany,983.1582267,24-8-2015 17:14:03,Auto-processor,System,595
+Send settlement instructions to clearing agent,110539,Switzerland,423.0146125,31-8-2015 17:15:55,Other,Barrett Witt,596
+Receive status update from clearing agent,110539,Germany,563.548228,2/9/2015 14:19,Line management,Kiona Sanchez,597
+Create settlement instructions,110540,US,167.4725825,10/8/2015 14:05,Controlling,Knox Gonzalez,598
+Close outstanding settlement instructions and contractual journal,110533,US,275.2788732,24-8-2015 11:49:37,Controlling,Knox Gonzalez,599
+Close outstanding settlement instructions and contractual journal,110534,US,702.5225649,21-8-2015 14:54:08,Controlling,Knox Gonzalez,600
+Close outstanding settlement instructions and contractual journal,110535,US,530.3958707,8/9/2015 11:25,Controlling,Knox Gonzalez,601
+Close outstanding settlement instructions and contractual journal,110536,US,540.4225416,8/9/2015 11:26,Controlling,Knox Gonzalez,602
+Close outstanding settlement instructions and contractual journal,110537,US,15.54379734,8/9/2015 11:24,Controlling,Knox Gonzalez,603
+Close outstanding settlement instructions and contractual journal,110538,US,702.1054084,8/9/2015 11:23,Controlling,Knox Gonzalez,604
+Close outstanding settlement instructions and contractual journal,110539,US,45.30317333,8/9/2015 11:25,Controlling,Knox Gonzalez,605
+Place hold for authorization,110540,US,519.3384668,10/8/2015 17:02,Controlling,Knox Gonzalez,606
+Receive authorization and remove hold,110540,US,229.3026274,10/8/2015 17:02,Controlling,Knox Gonzalez,607
+Send settlement instructions to clearing agent,110540,Germany,71.10651566,10/8/2015 17:03,Auto-processor,System,608
+Send settlement instructions to clearing agent,110540,Germany,922.4808515,17-8-2015 17:04:00,Auto-processor,System,609
+Send settlement instructions to clearing agent,110540,Germany,405.8022319,20-8-2015 17:04:29,Auto-processor,System,610
+Receive authorization and remove hold,110540,US,993.6565963,24-8-2015 17:07:10,Controlling,Knox Gonzalez,611
+Send settlement instructions to clearing agent,110540,Germany,244.8488399,24-8-2015 17:14:26,Auto-processor,System,612
+Send settlement instructions to clearing agent,110540,Switzerland,427.2038384,31-8-2015 17:15:56,Other,Barrett Witt,613
+Receive status update from clearing agent,110540,Germany,123.8659858,2/9/2015 14:40,Line management,Kiona Sanchez,614
+Create settlement instructions,110541,US,209.2351231,10/8/2015 14:05,Controlling,Knox Gonzalez,615
+Place hold for authorization,110541,US,924.2211791,10/8/2015 17:06,Controlling,Knox Gonzalez,616
+Receive authorization and remove hold,110541,US,737.0917668,10/8/2015 17:06,Controlling,Knox Gonzalez,617
+Send settlement instructions to clearing agent,110541,Germany,375.7239554,10/8/2015 17:08,Auto-processor,System,618
+Send settlement instructions to clearing agent,110541,Germany,924.7132311,17-8-2015 17:10:00,Auto-processor,System,619
+Send settlement instructions to clearing agent,110541,US,607.1512065,20-8-2015 17:10:29,Other,Xander Pittman,620
+Send settlement instructions to clearing agent,110541,Germany,705.698451,21-8-2015 10:03:23,Auto-processor,System,621
+Send settlement instructions to clearing agent,110541,Switzerland,222.020825,28-8-2015 10:03:46,Purchasing,Justine Monroe,622
+Receive status update from clearing agent,110541,Netherlands,8.774344544,1/9/2015 14:00,Other,Mallory Henry,623
+Create settlement instructions,110542,US,142.1066362,10/8/2015 14:05,Controlling,Knox Gonzalez,624
+Place hold for authorization,110542,US,841.8221587,10/8/2015 17:05,Controlling,Knox Gonzalez,625
+Receive authorization and remove hold,110542,US,875.5204452,10/8/2015 17:05,Controlling,Knox Gonzalez,626
+Send settlement instructions to clearing agent,110542,Germany,265.6433262,10/8/2015 17:06,Line management,Kiona Sanchez,627
+Receive status update from clearing agent,110542,Germany,629.9378489,17-8-2015 10:01:54,Other,Rogan Campbell,628
+Create settlement instructions,110543,US,312.8722132,10/8/2015 14:06,Controlling,Knox Gonzalez,629
+Place hold for authorization,110543,US,913.7468876,10/8/2015 18:01,Controlling,Knox Gonzalez,630
+Receive authorization and remove hold,110543,US,802.0897695,10/8/2015 18:01,Controlling,Knox Gonzalez,631
+Send settlement instructions to clearing agent,110543,Germany,721.9360846,10/8/2015 18:02,Line management,Kiona Sanchez,632
+Receive status update from clearing agent,110543,Germany,621.900978,17-8-2015 10:04:08,Other,Rogan Campbell,633
+Create settlement instructions,110544,US,788.1658671,10/8/2015 14:06,Controlling,Knox Gonzalez,634
+Place hold for authorization,110544,US,811.7691024,10/8/2015 18:02,Controlling,Knox Gonzalez,635
+Receive authorization and remove hold,110544,US,252.0697412,10/8/2015 18:02,Controlling,Knox Gonzalez,636
+Send settlement instructions to clearing agent,110544,Germany,555.6566517,10/8/2015 18:02,Line management,Kiona Sanchez,637
+Receive status update from clearing agent,110544,Germany,148.0629278,17-8-2015 10:05:13,Other,Rogan Campbell,638
+Create settlement instructions,110545,France,785.9308059,10/8/2015 14:07,Administration,Aaron Downs,639
+Create settlement instructions,110546,US,643.7943096,10/8/2015 14:07,Controlling,Knox Gonzalez,640
+Place hold for authorization,110546,US,510.3869369,10/8/2015 18:04,Controlling,Knox Gonzalez,641
+Receive authorization and remove hold,110546,US,364.0303238,10/8/2015 18:04,Controlling,Knox Gonzalez,642
+Send settlement instructions to clearing agent,110546,Germany,369.1021158,10/8/2015 18:04,Line management,Kiona Sanchez,643
+Receive status update from clearing agent,110546,Germany,764.5664167,17-8-2015 10:10:34,Other,Rogan Campbell,644
+Create settlement instructions,110547,US,443.2829094,10/8/2015 14:07,Controlling,Knox Gonzalez,645
+Place hold for authorization,110547,US,870.9820411,10/8/2015 18:05,Controlling,Knox Gonzalez,646
+Receive authorization and remove hold,110547,US,541.3690023,10/8/2015 18:05,Controlling,Knox Gonzalez,647
+Send settlement instructions to clearing agent,110547,Germany,209.8459037,10/8/2015 18:05,Line management,Kiona Sanchez,648
+Receive status update from clearing agent,110547,Germany,816.3873438,17-8-2015 10:13:10,Other,Rogan Campbell,649
+Create settlement instructions,110548,US,234.5412168,10/8/2015 14:08,Controlling,Knox Gonzalez,650
+Place hold for authorization,110548,US,77.19045134,10/8/2015 18:05,Controlling,Knox Gonzalez,651
+Receive authorization and remove hold,110548,US,356.9530285,10/8/2015 18:05,Controlling,Knox Gonzalez,652
+Send settlement instructions to clearing agent,110548,Germany,512.3017533,10/8/2015 18:06,Line management,Kiona Sanchez,653
+Receive status update from clearing agent,110548,Germany,217.2198109,17-8-2015 10:15:45,Other,Rogan Campbell,654
+Create settlement instructions,110549,US,562.5068017,10/8/2015 14:08,Controlling,Knox Gonzalez,655
+Place hold for authorization,110549,US,202.1487268,10/8/2015 18:06,Controlling,Knox Gonzalez,656
+Receive authorization and remove hold,110549,US,957.7392883,10/8/2015 18:06,Controlling,Knox Gonzalez,657
+Send settlement instructions to clearing agent,110549,Germany,658.105876,10/8/2015 18:07,Line management,Kiona Sanchez,658
+Receive status update from clearing agent,110549,Germany,555.0300818,17-8-2015 10:19:49,Other,Rogan Campbell,659
+Create settlement instructions,110550,US,834.9730558,10/8/2015 14:09,Controlling,Knox Gonzalez,660
+Close outstanding settlement instructions and contractual journal,110540,US,985.7402527,8/9/2015 11:29,Controlling,Knox Gonzalez,661
+Close outstanding settlement instructions and contractual journal,110541,US,982.6990848,1/9/2015 14:28,Controlling,Knox Gonzalez,662
+Close outstanding settlement instructions and contractual journal,110542,US,363.9455082,18-8-2015 13:25:53,Controlling,Knox Gonzalez,663
+Close outstanding settlement instructions and contractual journal,110543,US,761.4641973,18-8-2015 13:26:07,Controlling,Knox Gonzalez,664
+Close outstanding settlement instructions and contractual journal,110544,US,801.750553,18-8-2015 13:26:21,Controlling,Knox Gonzalez,665
+Close outstanding settlement instructions and contractual journal,110546,US,505.9666825,18-8-2015 13:27:19,Controlling,Knox Gonzalez,666
+Close outstanding settlement instructions and contractual journal,110547,US,328.7868631,18-8-2015 13:27:36,Controlling,Knox Gonzalez,667
+Close outstanding settlement instructions and contractual journal,110548,US,423.8300489,18-8-2015 13:27:46,Controlling,Knox Gonzalez,668
+Close outstanding settlement instructions and contractual journal,110549,US,727.3137797,18-8-2015 13:28:19,Controlling,Knox Gonzalez,669
+Place hold for authorization,110550,US,623.3075545,10/8/2015 18:08,Controlling,Knox Gonzalez,670
+Receive authorization and remove hold,110550,US,348.2569402,10/8/2015 18:08,Controlling,Knox Gonzalez,671
+Send settlement instructions to clearing agent,110550,Germany,52.00074433,10/8/2015 18:08,Line management,Kiona Sanchez,672
+Receive status update from clearing agent,110550,Germany,731.4027925,17-8-2015 10:23:30,Other,Rogan Campbell,673
+Create settlement instructions,110551,US,569.200075,10/8/2015 14:09,Controlling,Knox Gonzalez,674
+Place hold for authorization,110551,US,101.2375899,10/8/2015 18:09,Controlling,Knox Gonzalez,675
+Receive authorization and remove hold,110551,US,140.3047411,10/8/2015 18:09,Controlling,Knox Gonzalez,676
+Send settlement instructions to clearing agent,110551,Germany,648.7193848,10/8/2015 18:09,Line management,Kiona Sanchez,677
+Receive status update from clearing agent,110551,Germany,215.5699765,17-8-2015 10:25:26,Other,Rogan Campbell,678
+Create settlement instructions,110552,US,983.2908941,10/8/2015 14:09,Controlling,Knox Gonzalez,679
+Place hold for authorization,110552,US,374.2228,10/8/2015 18:10,Controlling,Knox Gonzalez,680
+Receive authorization and remove hold,110552,US,763.0202835,10/8/2015 18:10,Controlling,Knox Gonzalez,681
+Send settlement instructions to clearing agent,110552,Germany,629.8678312,10/8/2015 18:10,Line management,Kiona Sanchez,682
+Receive status update from clearing agent,110552,Germany,429.5273896,17-8-2015 11:11:19,Other,Rogan Campbell,683
+Create settlement instructions,110553,US,499.2679296,10/8/2015 14:10,Controlling,Knox Gonzalez,684
+Place hold for authorization,110553,US,472.4905086,10/8/2015 17:53,Controlling,Knox Gonzalez,685
+Receive authorization and remove hold,110553,US,835.5902522,10/8/2015 17:53,Controlling,Knox Gonzalez,686
+Send settlement instructions to clearing agent,110553,Germany,271.040892,10/8/2015 17:53,Auto-processor,System,687
+Send settlement instructions to clearing agent,110553,Germany,964.2781605,17-8-2015 17:55:00,Auto-processor,System,688
+Send settlement instructions to clearing agent,110553,France,100.973455,20-8-2015 17:55:29,Other,Shay Christensen,689
+Create settlement instructions,110554,US,21.82888107,10/8/2015 14:10,Controlling,Knox Gonzalez,690
+Place hold for authorization,110554,US,559.7286595,10/8/2015 17:54,Controlling,Knox Gonzalez,691
+Receive authorization and remove hold,110554,US,871.8877835,10/8/2015 17:54,Controlling,Knox Gonzalez,692
+Send settlement instructions to clearing agent,110554,Germany,175.1847459,10/8/2015 17:54,Auto-processor,System,693
+Send settlement instructions to clearing agent,110554,Germany,159.8667119,17-8-2015 17:55:00,Auto-processor,System,694
+Send settlement instructions to clearing agent,110554,France,659.7965431,20-8-2015 17:55:30,Other,Shay Christensen,695
+Receive status update from clearing agent,110554,Germany,382.4576093,24-8-2015 10:12:41,Line management,Kiona Sanchez,696
+Create settlement instructions,110555,US,653.513919,10/8/2015 14:10,Controlling,Knox Gonzalez,697
+Place hold for authorization,110555,US,232.4576424,10/8/2015 17:49,Controlling,Knox Gonzalez,698
+Receive authorization and remove hold,110555,US,343.1182727,10/8/2015 17:49,Controlling,Knox Gonzalez,699
+Send settlement instructions to clearing agent,110555,UK,72.52998147,10/8/2015 17:50,Other,Oscar Medina,700
+Receive status update from clearing agent,110555,Germany,868.978609,11/8/2015 10:14,Auto-processor,System,701
+Receive status update from clearing agent,110555,Germany,153.3393488,18-8-2015 10:16:06,Line management,Kiona Sanchez,702
+Create settlement instructions,110556,US,16.15087684,10/8/2015 14:11,Controlling,Knox Gonzalez,703
+Place hold for authorization,110556,US,799.1873482,10/8/2015 17:50,Controlling,Knox Gonzalez,704
+Receive authorization and remove hold,110556,US,888.8868421,10/8/2015 17:50,Controlling,Knox Gonzalez,705
+Send settlement instructions to clearing agent,110556,UK,213.2162033,10/8/2015 17:51,Other,Oscar Medina,706
+Receive status update from clearing agent,110556,Germany,373.3004303,11/8/2015 10:20,Auto-processor,System,707
+Receive status update from clearing agent,110556,Germany,436.4919384,18-8-2015 10:22:06,Line management,Kiona Sanchez,708
+Create settlement instructions,110558,US,935.9230894,10/8/2015 14:12,Controlling,Knox Gonzalez,709
+Place hold for authorization,110558,US,225.273652,10/8/2015 17:24,Controlling,Knox Gonzalez,710
+Receive authorization and remove hold,110558,US,656.4893889,10/8/2015 17:24,Controlling,Knox Gonzalez,711
+Send settlement instructions to clearing agent,110558,UK,814.5856744,10/8/2015 17:24,Other,Oscar Medina,712
+Receive status update from clearing agent,110558,Germany,700.3280584,11/8/2015 10:08,Line management,Kiona Sanchez,713
+Receive status update from clearing agent,110558,Germany,325.834188,18-8-2015 10:10:06,Line management,Kiona Sanchez,714
+Create settlement instructions,110559,US,237.0228569,10/8/2015 14:12,Controlling,Knox Gonzalez,715
+Place hold for authorization,110559,US,742.8729932,2/9/2015 13:16,Controlling,Knox Gonzalez,716
+Receive authorization and remove hold,110559,US,446.490073,2/9/2015 13:16,Controlling,Knox Gonzalez,717
+Receive authorization and remove hold,110559,US,541.9708376,2/9/2015 13:16,Controlling,Knox Gonzalez,718
+Send settlement instructions to clearing agent,110559,Netherlands,951.3924243,7/9/2015 17:12,Other,Aurelia Morrow,719
+Send settlement instructions to clearing agent,110559,Netherlands,64.2716785,14-9-2015 17:13:34,Other,Aurelia Morrow,720
+Receive authorization and remove hold,110559,US,655.3342433,15-9-2015 13:14:54,Controlling,Knox Gonzalez,721
+Send settlement instructions to clearing agent,110559,Germany,1003.675894,15-9-2015 13:27:05,Auto-processor,System,722
+Send settlement instructions to clearing agent,110559,Netherlands,161.7981617,22-9-2015 13:27:52,Other,Aurelia Morrow,723
+Receive status update from clearing agent,110559,Germany,797.8199887,22-9-2015 14:28:38,Financial approval,Neil Vega,724
+Create settlement instructions,110561,US,978.5012655,10/8/2015 14:13,Controlling,Knox Gonzalez,725
+Close outstanding settlement instructions and contractual journal,110550,US,208.0310165,18-8-2015 13:28:34,Controlling,Knox Gonzalez,726
+Close outstanding settlement instructions and contractual journal,110551,US,642.0438571,18-8-2015 13:28:48,Controlling,Knox Gonzalez,727
+Close outstanding settlement instructions and contractual journal,110552,US,216.7204003,18-8-2015 13:29:02,Controlling,Knox Gonzalez,728
+Close outstanding settlement instructions and contractual journal,110553,US,426.2723562,24-8-2015 12:10:36,Controlling,Knox Gonzalez,729
+Close outstanding settlement instructions and contractual journal,110554,US,568.1612137,24-8-2015 12:09:47,Controlling,Knox Gonzalez,730
+Close outstanding settlement instructions and contractual journal,110555,US,239.0353487,18-8-2015 11:15:04,Controlling,Knox Gonzalez,731
+Close outstanding settlement instructions and contractual journal,110556,US,227.3186329,18-8-2015 11:20:06,Controlling,Knox Gonzalez,732
+Close outstanding settlement instructions and contractual journal,110558,US,978.9051325,18-8-2015 11:11:28,Controlling,Knox Gonzalez,733
+Close outstanding settlement instructions and contractual journal,110559,US,941.7524592,22-9-2015 14:51:10,Controlling,Knox Gonzalez,734
+Place hold for authorization,110561,US,471.7502468,10/8/2015 15:55,Controlling,Knox Gonzalez,735
+Receive authorization and remove hold,110561,US,7.347262013,10/8/2015 15:55,Controlling,Knox Gonzalez,736
+Send settlement instructions to clearing agent,110561,Germany,457.9675529,10/8/2015 15:55,Auto-processor,System,737
+Send settlement instructions to clearing agent,110561,Austria,698.2387938,17-8-2015 15:57:59,Purchasing,John Tanner,738
+Receive status update from clearing agent,110561,Germany,929.9561341,19-8-2015 10:02:44,Line management,Kiona Sanchez,739
+Create settlement instructions,110562,US,13.40212327,10/8/2015 14:13,Controlling,Knox Gonzalez,740
+Place hold for authorization,110562,US,150.5090824,10/8/2015 15:56,Controlling,Knox Gonzalez,741
+Receive authorization and remove hold,110562,US,379.7013252,10/8/2015 15:56,Controlling,Knox Gonzalez,742
+Send settlement instructions to clearing agent,110562,Germany,687.2009985,10/8/2015 15:57,Auto-processor,System,743
+Send settlement instructions to clearing agent,110562,Austria,367.9988878,17-8-2015 15:57:59,Purchasing,John Tanner,744
+Receive status update from clearing agent,110562,Germany,44.25312231,19-8-2015 08:42:35,Line management,Kiona Sanchez,745
+Create settlement instructions,110563,US,236.53465,10/8/2015 14:14,Controlling,Knox Gonzalez,746
+Place hold for authorization,110563,US,144.8054189,10/8/2015 15:59,Controlling,Knox Gonzalez,747
+Receive authorization and remove hold,110563,US,703.6679452,10/8/2015 15:59,Controlling,Knox Gonzalez,748
+Send settlement instructions to clearing agent,110563,Germany,317.1521039,10/8/2015 16:00,Auto-processor,System,749
+Send settlement instructions to clearing agent,110563,Austria,541.257485,17-8-2015 16:00:59,Purchasing,John Tanner,750
+Receive status update from clearing agent,110563,Germany,618.1845768,19-8-2015 10:03:22,Line management,Kiona Sanchez,751
+Create settlement instructions,110564,US,342.7892407,10/8/2015 14:14,Controlling,Knox Gonzalez,752
+Place hold for authorization,110564,US,466.5630428,10/8/2015 16:41,Controlling,Knox Gonzalez,753
+Receive authorization and remove hold,110564,US,232.7013956,10/8/2015 16:41,Controlling,Knox Gonzalez,754
+Send settlement instructions to clearing agent,110564,Germany,87.65323525,10/8/2015 16:42,Auto-processor,System,755
+Send settlement instructions to clearing agent,110564,Germany,448.4229687,17-8-2015 16:42:59,Auto-processor,System,756
+Send settlement instructions to clearing agent,110564,US,113.7749422,20-8-2015 16:43:29,Other,Xander Pittman,757
+Receive status update from clearing agent,110564,Germany,913.4913764,21-8-2015 09:50:34,Line management,Kiona Sanchez,758
+Create settlement instructions,110565,US,961.4808724,10/8/2015 14:14,Controlling,Knox Gonzalez,759
+Place hold for authorization,110565,US,875.2450226,10/8/2015 16:42,Controlling,Knox Gonzalez,760
+Receive authorization and remove hold,110565,US,421.4463271,10/8/2015 16:42,Controlling,Knox Gonzalez,761
+Send settlement instructions to clearing agent,110565,Germany,244.0859542,17-8-2015 16:45:59,Auto-processor,System,762
+Send settlement instructions to clearing agent,110565,US,934.7539419,20-8-2015 16:46:29,Other,Xander Pittman,763
+Receive status update from clearing agent,110565,Germany,81.93966216,21-8-2015 09:51:11,Line management,Kiona Sanchez,764
+Create settlement instructions,110566,US,306.9608859,10/8/2015 14:15,Controlling,Knox Gonzalez,765
+Place hold for authorization,110566,US,904.0637566,10/8/2015 16:43,Controlling,Knox Gonzalez,766
+Receive authorization and remove hold,110566,US,609.1043087,10/8/2015 16:43,Controlling,Knox Gonzalez,767
+Send settlement instructions to clearing agent,110566,Germany,134.7865622,10/8/2015 16:44,Auto-processor,System,768
+Send settlement instructions to clearing agent,110566,Germany,205.4620929,17-8-2015 16:46:00,Auto-processor,System,769
+Send settlement instructions to clearing agent,110566,US,906.8207979,20-8-2015 16:46:29,Other,Xander Pittman,770
+Receive status update from clearing agent,110566,Germany,236.1269162,21-8-2015 09:51:46,Line management,Kiona Sanchez,771
+Create settlement instructions,110567,US,867.8815098,10/8/2015 14:15,Controlling,Knox Gonzalez,772
+Place hold for authorization,110567,US,310.3539682,10/8/2015 16:44,Controlling,Knox Gonzalez,773
+Receive authorization and remove hold,110567,US,72.98906013,10/8/2015 16:44,Controlling,Knox Gonzalez,774
+Send settlement instructions to clearing agent,110567,Germany,464.9148006,10/8/2015 16:45,Auto-processor,System,775
+Send settlement instructions to clearing agent,110567,Germany,671.9220747,17-8-2015 16:46:00,Auto-processor,System,776
+Send settlement instructions to clearing agent,110567,Germany,759.6375054,20-8-2015 16:46:29,Auto-processor,System,777
+Receive authorization and remove hold,110567,US,900.6179016,24-8-2015 16:49:09,Controlling,Knox Gonzalez,778
+Send settlement instructions to clearing agent,110567,US,535.6552281,24-8-2015 17:12:53,Other,Xander Pittman,779
+Receive status update from clearing agent,110567,Germany,584.344332,25-8-2015 11:33:17,Line management,Kiona Sanchez,780
+Receive status update from clearing agent,110567,Germany,702.2024122,1/9/2015 11:34,Line management,Kiona Sanchez,781
+Create settlement instructions,110568,US,596.9238624,10/8/2015 14:22,Controlling,Knox Gonzalez,782
+Place hold for authorization,110568,US,459.4881476,10/8/2015 18:03,Controlling,Knox Gonzalez,783
+Receive authorization and remove hold,110568,US,695.9061141,10/8/2015 18:03,Controlling,Knox Gonzalez,784
+Send settlement instructions to clearing agent,110568,Germany,631.2362709,10/8/2015 18:04,Line management,Kiona Sanchez,785
+Receive status update from clearing agent,110568,Germany,386.773655,17-8-2015 10:08:49,Other,Rogan Campbell,786
+Create settlement instructions,110569,US,958.452356,10/8/2015 14:30,Controlling,Knox Gonzalez,787
+Place hold for authorization,110569,US,991.1690084,2/9/2015 13:14,Controlling,Knox Gonzalez,788
+Receive authorization and remove hold,110569,US,791.7587996,2/9/2015 13:14,Controlling,Knox Gonzalez,789
+Receive authorization and remove hold,110569,US,915.6182147,2/9/2015 13:15,Controlling,Knox Gonzalez,790
+Send settlement instructions to clearing agent,110569,Germany,391.1397111,2/9/2015 13:28,Auto-processor,System,791
+Send settlement instructions to clearing agent,110569,France,98.23276197,9/9/2015 13:30,Other,Quon Jefferson,792
+Close outstanding settlement instructions and contractual journal,110561,US,328.1920784,24-8-2015 11:57:56,Controlling,Knox Gonzalez,793
+Close outstanding settlement instructions and contractual journal,110562,US,93.54263933,24-8-2015 11:56:44,Controlling,Knox Gonzalez,794
+Close outstanding settlement instructions and contractual journal,110563,US,178.8860397,24-8-2015 11:58:52,Controlling,Knox Gonzalez,795
+Close outstanding settlement instructions and contractual journal,110564,US,875.5387737,24-8-2015 12:07:15,Controlling,Knox Gonzalez,796
+Close outstanding settlement instructions and contractual journal,110565,US,581.2126072,24-8-2015 12:08:03,Controlling,Knox Gonzalez,797
+Close outstanding settlement instructions and contractual journal,110566,US,657.7888984,24-8-2015 12:08:51,Controlling,Knox Gonzalez,798
+Close outstanding settlement instructions and contractual journal,110567,US,713.0731239,1/9/2015 14:00,Controlling,Knox Gonzalez,799
+Close outstanding settlement instructions and contractual journal,110568,US,383.2408177,18-8-2015 13:27:06,Controlling,Knox Gonzalez,800
+Receive status update from clearing agent,110569,Germany,51.45233398,14-9-2015 09:36:17,Financial approval,Neil Vega,801
+Create settlement instructions,110570,US,809.4802315,10/8/2015 14:30,Controlling,Knox Gonzalez,802
+Place hold for authorization,110570,US,934.3392555,2/9/2015 13:13,Controlling,Knox Gonzalez,803
+Receive authorization and remove hold,110570,US,698.4135093,2/9/2015 13:13,Controlling,Knox Gonzalez,804
+Receive authorization and remove hold,110570,US,299.3566282,2/9/2015 13:13,Controlling,Knox Gonzalez,805
+Send settlement instructions to clearing agent,110570,France,787.9871175,2/9/2015 13:34,Other,Shay Christensen,806
+Receive status update from clearing agent,110570,Germany,971.0342536,2/9/2015 14:54,Line management,Kiona Sanchez,807
+Create settlement instructions,110571,Germany,346.9654749,10/8/2015 14:31,Controlling,Clio Butler,808
+Send settlement instructions to clearing agent,110571,Switzerland,35.16973244,14-8-2015 14:54:13,Purchasing,Gil Bush,809
+Receive status update from clearing agent,110571,France,343.4456022,17-8-2015 10:18:02,Financial approval,Norman Calhoun,810
+Create settlement instructions,110572,France,726.5469709,10/8/2015 14:31,Administration,Aaron Downs,811
+Create settlement instructions,110574,US,330.9592866,10/8/2015 14:31,Controlling,Knox Gonzalez,812
+Place hold for authorization,110574,US,11.61922154,2/9/2015 13:12,Controlling,Knox Gonzalez,813
+Receive authorization and remove hold,110574,US,86.10601631,2/9/2015 13:12,Controlling,Knox Gonzalez,814
+Receive authorization and remove hold,110574,US,847.9701565,2/9/2015 13:12,Controlling,Knox Gonzalez,815
+Send settlement instructions to clearing agent,110574,UK,970.9366153,2/9/2015 13:31,Other,Tamara Aguilar,816
+Receive status update from clearing agent,110574,Germany,863.0752937,2/9/2015 14:36,Line management,Kiona Sanchez,817
+Create settlement instructions,110575,US,94.85112453,10/8/2015 14:32,Controlling,Knox Gonzalez,818
+Place hold for authorization,110575,US,742.0373834,28-8-2015 09:31:12,Controlling,Knox Gonzalez,819
+Receive authorization and remove hold,110575,US,832.9622234,28-8-2015 09:31:12,Controlling,Knox Gonzalez,820
+Receive authorization and remove hold,110575,US,408.0396169,28-8-2015 09:31:20,Controlling,Knox Gonzalez,821
+Send settlement instructions to clearing agent,110575,Germany,242.606506,2/9/2015 14:02,Other,Garrett Richardson,822
+Receive status update from clearing agent,110575,Germany,679.4868996,7/9/2015 9:17,Financial approval,Neil Vega,823
+Create settlement instructions,110576,US,422.2871388,10/8/2015 14:32,Controlling,Knox Gonzalez,824
+Place hold for authorization,110576,US,483.7875899,28-8-2015 09:27:41,Controlling,Knox Gonzalez,825
+Receive authorization and remove hold,110576,US,587.457815,28-8-2015 09:27:41,Controlling,Knox Gonzalez,826
+Receive authorization and remove hold,110576,US,791.22187,28-8-2015 09:27:58,Controlling,Knox Gonzalez,827
+Send settlement instructions to clearing agent,110576,UK,412.599085,2/9/2015 14:05,Other,Tamara Aguilar,828
+Receive status update from clearing agent,110576,Germany,822.6476332,2/9/2015 14:37,Line management,Kiona Sanchez,829
+Create settlement instructions,110577,US,52.70841601,10/8/2015 14:33,Controlling,Knox Gonzalez,830
+Place hold for authorization,110577,US,219.1385659,28-8-2015 09:26:33,Controlling,Knox Gonzalez,831
+Receive authorization and remove hold,110577,US,449.038247,28-8-2015 09:26:36,Controlling,Knox Gonzalez,832
+Receive authorization and remove hold,110577,US,753.2665525,28-8-2015 09:26:51,Controlling,Knox Gonzalez,833
+Send settlement instructions to clearing agent,110577,Netherlands,14.06301231,2/9/2015 14:07,Other,Micah Munoz,834
+Receive status update from clearing agent,110577,Germany,876.970632,3/9/2015 9:15,Financial approval,Neil Vega,835
+Create settlement instructions,110578,US,76.15151494,10/8/2015 14:33,Controlling,Knox Gonzalez,836
+Place hold for authorization,110578,US,892.4294233,10/8/2015 15:36,Controlling,Knox Gonzalez,837
+Receive authorization and remove hold,110578,US,172.109858,10/8/2015 15:36,Controlling,Knox Gonzalez,838
+Send settlement instructions to clearing agent,110578,Germany,200.7386378,10/8/2015 15:37,Line management,Kiona Sanchez,839
+Receive status update from clearing agent,110578,Germany,303.1584279,17-8-2015 09:59:14,Other,Rogan Campbell,840
+Create settlement instructions,110579,US,886.6122939,10/8/2015 14:33,Controlling,Knox Gonzalez,841
+Place hold for authorization,110579,US,510.2421289,10/8/2015 15:38,Controlling,Knox Gonzalez,842
+Receive authorization and remove hold,110579,US,579.2314914,10/8/2015 15:38,Controlling,Knox Gonzalez,843
+Send settlement instructions to clearing agent,110579,Germany,514.6057212,10/8/2015 15:39,Auto-processor,System,844
+Send settlement instructions to clearing agent,110579,Germany,159.2083022,17-8-2015 15:39:59,Auto-processor,System,845
+Send settlement instructions to clearing agent,110579,US,714.2682131,20-8-2015 15:40:28,Other,Xander Pittman,846
+Receive status update from clearing agent,110579,Germany,26.26071832,21-8-2015 09:48:19,Line management,Kiona Sanchez,847
+Create settlement instructions,110581,US,617.7339903,10/8/2015 14:34,Controlling,Knox Gonzalez,848
+Place hold for authorization,110581,US,292.2996386,10/8/2015 15:39,Controlling,Knox Gonzalez,849
+Receive authorization and remove hold,110581,US,719.6192619,10/8/2015 15:39,Controlling,Knox Gonzalez,850
+Send settlement instructions to clearing agent,110581,Germany,621.0077167,10/8/2015 15:41,Auto-processor,System,851
+Send settlement instructions to clearing agent,110581,Germany,745.7970401,17-8-2015 15:42:59,Auto-processor,System,852
+Send settlement instructions to clearing agent,110581,US,909.1793435,20-8-2015 15:43:28,Other,Xander Pittman,853
+Receive status update from clearing agent,110581,Germany,96.999702,21-8-2015 09:48:59,Line management,Kiona Sanchez,854
+Close outstanding settlement instructions and contractual journal,110569,US,288.2274295,14-9-2015 16:51:32,Controlling,Knox Gonzalez,855
+Close outstanding settlement instructions and contractual journal,110570,US,757.1637987,8/9/2015 11:30,Controlling,Knox Gonzalez,856
+Close outstanding settlement instructions and contractual journal,110571,Germany,355.1616593,17-8-2015 14:06:20,Controlling,Clio Butler,857
+Close outstanding settlement instructions and contractual journal,110574,US,956.239589,8/9/2015 14:09,Controlling,Knox Gonzalez,858
+Close outstanding settlement instructions and contractual journal,110575,US,693.7237194,8/9/2015 17:48,Controlling,Knox Gonzalez,859
+Close outstanding settlement instructions and contractual journal,110576,US,461.6662101,8/9/2015 11:28,Controlling,Knox Gonzalez,860
+Close outstanding settlement instructions and contractual journal,110577,US,321.0108476,3/9/2015 15:41,Controlling,Knox Gonzalez,861
+Close outstanding settlement instructions and contractual journal,110578,US,448.3019172,18-8-2015 13:24:56,Controlling,Knox Gonzalez,862
+Close outstanding settlement instructions and contractual journal,110579,US,203.2726222,24-8-2015 12:03:29,Controlling,Knox Gonzalez,863
+Close outstanding settlement instructions and contractual journal,110581,US,855.9785088,24-8-2015 12:04:21,Controlling,Knox Gonzalez,864
+Create settlement instructions,110582,US,285.8857711,10/8/2015 14:34,Controlling,Knox Gonzalez,865
+Place hold for authorization,110582,US,542.3614384,10/8/2015 15:42,Controlling,Knox Gonzalez,866
+Receive authorization and remove hold,110582,US,414.6392498,10/8/2015 15:42,Controlling,Knox Gonzalez,867
+Send settlement instructions to clearing agent,110582,Germany,856.0994189,10/8/2015 15:42,Auto-processor,System,868
+Send settlement instructions to clearing agent,110582,Germany,793.517588,17-8-2015 15:42:59,Auto-processor,System,869
+Send settlement instructions to clearing agent,110582,US,185.0682345,20-8-2015 15:43:28,Other,Xander Pittman,870
+Receive status update from clearing agent,110582,Germany,656.6372724,21-8-2015 09:49:52,Line management,Kiona Sanchez,871
+Create settlement instructions,110583,US,989.1260544,10/8/2015 14:35,Controlling,Knox Gonzalez,872
+Place hold for authorization,110583,US,844.1295986,10/8/2015 15:44,Controlling,Knox Gonzalez,873
+Receive authorization and remove hold,110583,US,568.7516221,10/8/2015 15:44,Controlling,Knox Gonzalez,874
+Send settlement instructions to clearing agent,110583,Germany,971.7079029,10/8/2015 15:44,Line management,Kiona Sanchez,875
+Receive status update from clearing agent,110583,Germany,553.9039207,17-8-2015 10:00:35,Other,Rogan Campbell,876
+Create settlement instructions,110584,US,12.09860843,10/8/2015 14:35,Controlling,Knox Gonzalez,877
+Place hold for authorization,110584,US,857.6870329,10/8/2015 15:47,Controlling,Knox Gonzalez,878
+Receive authorization and remove hold,110584,US,588.6271143,10/8/2015 15:47,Controlling,Knox Gonzalez,879
+Send settlement instructions to clearing agent,110584,US,421.2145307,10/8/2015 15:48,Other,Yoko Salas,880
+Receive status update from clearing agent,110584,Germany,652.6978792,12/8/2015 16:03,Line management,Kiona Sanchez,881
+Create settlement instructions,110585,US,341.7080251,10/8/2015 14:35,Controlling,Knox Gonzalez,882
+Place hold for authorization,110585,US,234.8069056,10/8/2015 15:51,Controlling,Knox Gonzalez,883
+Receive authorization and remove hold,110585,US,172.3879565,10/8/2015 15:51,Controlling,Knox Gonzalez,884
+Send settlement instructions to clearing agent,110585,Germany,88.78120557,10/8/2015 15:53,Auto-processor,System,885
+Send settlement instructions to clearing agent,110585,Germany,576.7325894,17-8-2015 15:54:59,Auto-processor,System,886
+Send settlement instructions to clearing agent,110585,Germany,639.7862219,20-8-2015 15:55:28,Auto-processor,System,887
+Receive authorization and remove hold,110585,US,577.7373784,24-8-2015 15:58:09,Controlling,Knox Gonzalez,888
+Send settlement instructions to clearing agent,110585,UK,201.6070933,24-8-2015 16:16:30,Other,Laurel Ware,889
+Receive status update from clearing agent,110585,Germany,143.9890941,26-8-2015 17:25:36,Line management,Kiona Sanchez,890
+Create settlement instructions,110586,France,906.4772891,10/8/2015 14:36,Administration,Hunter Garcia,891
+Send settlement instructions to clearing agent,110586,US,766.7891368,11/8/2015 9:27,Purchasing,Ignacia Taylor,892
+Send settlement instructions to clearing agent,110586,Germany,63.93575468,13-8-2015 11:07:23,Purchasing,Blaze Barber,893
+Receive status update from clearing agent,110586,Germany,733.7275663,17-8-2015 09:04:14,Line management,Griffin Donaldson,894
+Create settlement instructions,110587,France,453.2684939,10/8/2015 14:36,Administration,Hunter Garcia,895
+Send settlement instructions to clearing agent,110587,US,20.67794184,11/8/2015 9:32,Purchasing,Ignacia Taylor,896
+Send settlement instructions to clearing agent,110587,Germany,808.7737771,13-8-2015 11:12:01,Purchasing,Blaze Barber,897
+Receive status update from clearing agent,110587,Germany,787.6122908,17-8-2015 09:03:46,Line management,Griffin Donaldson,898
+Create settlement instructions,110588,France,1001.495971,10/8/2015 14:37,Administration,Hunter Garcia,899
+Send settlement instructions to clearing agent,110588,Netherlands,450.8294602,11/8/2015 9:33,Other,Brady Wilson,900
+Receive status update from clearing agent,110588,Germany,700.2807706,11/8/2015 11:03,Other,Hashim Salinas,901
+Create settlement instructions,110589,France,594.5803553,10/8/2015 14:37,Administration,Hunter Garcia,902
+Send settlement instructions to clearing agent,110589,Netherlands,435.2543691,11/8/2015 9:33,Other,Haviva Hernandez,903
+Receive status update from clearing agent,110589,Germany,736.4933274,11/8/2015 12:23,Line management,Griffin Donaldson,904
+Create settlement instructions,110590,France,427.6999048,10/8/2015 14:37,Administration,Hunter Garcia,905
+Send settlement instructions to clearing agent,110590,Germany,206.8728326,11/8/2015 9:34,Other,Wesley Preston,906
+Receive status update from clearing agent,110590,Germany,851.494271,13-8-2015 15:04:49,Line management,Griffin Donaldson,907
+Create settlement instructions,110591,France,290.3820204,10/8/2015 14:38,Administration,Hunter Garcia,908
+Send settlement instructions to clearing agent,110591,Germany,220.4905114,11/8/2015 9:35,Auto-processor,System,909
+Send settlement instructions to clearing agent,110591,Germany,552.0842319,20-8-2015 09:37:25,Auto-processor,System,910
+Send settlement instructions to clearing agent,110591,Germany,385.4778701,27-8-2015 09:37:36,Auto-processor,System,911
+Send settlement instructions to clearing agent,110591,UK,336.1880521,3/9/2015 9:51,Other,Nathan Lewis,912
+Send settlement instructions to clearing agent,110591,Germany,697.9077172,3/9/2015 10:28,Auto-processor,System,913
+Send settlement instructions to clearing agent,110591,Germany,369.8660644,14-9-2015 10:31:31,Auto-processor,System,914
+Send settlement instructions to clearing agent,110591,UK,67.56976588,21-9-2015 10:31:40,Other,Jared Cotton,915
+Receive status update from clearing agent,110591,UK,691.7072676,21-9-2015 10:57:16,Other,Nathan Lewis,916
+Receive status update from clearing agent,110591,Switzerland,173.7203959,21-9-2015 11:50:08,Other,Cecilia Kline,917
+Create settlement instructions,110592,France,600.4282276,10/8/2015 14:38,Administration,Hunter Garcia,918
+Close outstanding settlement instructions and contractual journal,110582,US,198.5404375,24-8-2015 12:06:15,Controlling,Knox Gonzalez,919
+Close outstanding settlement instructions and contractual journal,110583,US,371.0132013,18-8-2015 13:25:41,Controlling,Knox Gonzalez,920
+Close outstanding settlement instructions and contractual journal,110584,US,923.6168413,18-8-2015 11:09:13,Controlling,Knox Gonzalez,921
+Close outstanding settlement instructions and contractual journal,110585,US,223.737389,1/9/2015 13:59,Controlling,Knox Gonzalez,922
+Close outstanding settlement instructions and contractual journal,110586,France,99.17993379,18-8-2015 07:48:06,Finance,Lars Walker,923
+Close outstanding settlement instructions and contractual journal,110587,France,465.6712217,18-8-2015 07:47:58,Finance,Lars Walker,924
+Close outstanding settlement instructions and contractual journal,110588,France,573.6270365,11/8/2015 11:49,Finance,Lars Walker,925
+Close outstanding settlement instructions and contractual journal,110589,France,435.3983956,18-8-2015 07:46:01,Finance,Lars Walker,926
+Close outstanding settlement instructions and contractual journal,110590,France,710.0070761,18-8-2015 07:47:25,Finance,Lars Walker,927
+Close outstanding settlement instructions and contractual journal,110591,France,901.9095933,3/9/2015 9:39,Finance,Lars Walker,928
+Close outstanding settlement instructions and contractual journal,110591,France,240.5958598,21-9-2015 14:20:34,Finance,Lars Walker,929
+Send settlement instructions to clearing agent,110592,Switzerland,85.02403943,11/8/2015 9:37,Other,Grant Douglas,930
+Send settlement instructions to clearing agent,110592,Netherlands,594.9473802,11/8/2015 9:48,Other,Haviva Hernandez,931
+Send settlement instructions to clearing agent,110592,Germany,388.4091349,11/8/2015 13:47,Other,Ivan Wilkerson,932
+Receive status update from clearing agent,110592,Germany,840.5278977,11/8/2015 14:13,Other,Hashim Salinas,933
+Create settlement instructions,110593,France,413.229907,10/8/2015 14:38,Administration,Hunter Garcia,934
+Send settlement instructions to clearing agent,110593,Netherlands,263.1572813,11/8/2015 9:39,Other,Brady Wilson,935
+Receive status update from clearing agent,110593,Germany,923.9186476,11/8/2015 11:09,Other,Hashim Salinas,936
+Create settlement instructions,110594,France,951.6260442,10/8/2015 14:39,Administration,Hunter Garcia,937
+Send settlement instructions to clearing agent,110594,Germany,689.451423,11/8/2015 9:39,Other,Wesley Preston,938
+Send settlement instructions to clearing agent,110594,Netherlands,903.682092,13-8-2015 15:15:26,Other,Brady Wilson,939
+Send settlement instructions to clearing agent,110594,Germany,873.4755009,13-8-2015 16:16:34,Other,Ivan Wilkerson,940
+Send settlement instructions to clearing agent,110594,Switzerland,138.8125667,14-8-2015 08:37:19,Other,Grant Douglas,941
+Receive status update from clearing agent,110594,Germany,200.848778,14-8-2015 08:55:16,Line management,Griffin Donaldson,942
+Create settlement instructions,110595,UK,628.5980475,10/8/2015 15:00,Finance,Rebecca Love,943
+Send settlement instructions to clearing agent,110595,Netherlands,891.8041696,11/8/2015 14:45,Other,Lilah Olsen,944
+Send settlement instructions to clearing agent,110595,Germany,680.6295438,18-8-2015 15:49:57,Other,Kenneth Beard,945
+Receive status update from clearing agent,110595,Switzerland,104.4843953,18-8-2015 16:04:55,Financial approval,Jemima Woods,946
+Create settlement instructions,110596,UK,39.37636222,10/8/2015 15:00,Finance,Rebecca Love,947
+Send settlement instructions to clearing agent,110596,Austria,513.5137801,11/8/2015 14:56,Other,Maryam Beard,948
+Receive status update from clearing agent,110596,US,132.0507596,12/8/2015 10:25,Other,Paula Duffy,949
+Create settlement instructions,110597,UK,220.3478171,10/8/2015 15:01,Finance,Rebecca Love,950
+Send settlement instructions to clearing agent,110597,US,302.9230005,11/8/2015 14:57,Purchasing,Summer Holcomb,951
+Receive status update from clearing agent,110597,US,688.7391072,17-8-2015 15:05:28,Financial approval,Xerxes Espinoza,952
+Create settlement instructions,110598,UK,282.9288541,10/8/2015 15:01,Finance,Rebecca Love,953
+Send settlement instructions to clearing agent,110598,Germany,713.3111419,11/8/2015 14:57,Auto-processor,System,954
+Send settlement instructions to clearing agent,110598,US,158.4598771,20-8-2015 14:58:28,Purchasing,Summer Holcomb,955
+Receive status update from clearing agent,110598,US,680.2819744,24-8-2015 13:42:54,Financial approval,Xerxes Espinoza,956
+Create settlement instructions,110599,UK,877.9580364,10/8/2015 15:01,Finance,Rebecca Love,957
+Send settlement instructions to clearing agent,110599,US,187.3350613,11/8/2015 14:58,Purchasing,Summer Holcomb,958
+Receive status update from clearing agent,110599,US,65.80875204,17-8-2015 14:37:46,Financial approval,Xerxes Espinoza,959
+Create settlement instructions,110600,UK,754.0159085,10/8/2015 15:02,Finance,Rebecca Love,960
+Send settlement instructions to clearing agent,110600,US,822.3675439,11/8/2015 14:59,Purchasing,Summer Holcomb,961
+Receive status update from clearing agent,110600,US,848.1300347,17-8-2015 14:07:26,Financial approval,Xerxes Espinoza,962
+Receive status update from clearing agent,110600,Netherlands,96.14189651,17-8-2015 16:28:42,Financial approval,Claire Frost,963
+Create settlement instructions,110601,UK,867.8101643,10/8/2015 15:02,Finance,Rebecca Love,964
+Send settlement instructions to clearing agent,110601,Germany,211.133042,11/8/2015 14:59,Auto-processor,System,965
+Send settlement instructions to clearing agent,110601,US,630.0433122,20-8-2015 15:00:45,Purchasing,Summer Holcomb,966
+Receive status update from clearing agent,110601,US,188.2473598,24-8-2015 13:45:23,Financial approval,Xerxes Espinoza,967
+Create settlement instructions,110602,UK,842.8254133,10/8/2015 15:03,Finance,Rebecca Love,968
+Send settlement instructions to clearing agent,110602,UK,562.5926017,11/8/2015 15:00,Other,Hayfa Bright,969
+Receive status update from clearing agent,110602,Germany,959.8444002,12/8/2015 12:57,Other,Tyler Small,970
+Create settlement instructions,110603,France,204.5283184,10/8/2015 15:03,Administration,Hunter Garcia,971
+Send settlement instructions to clearing agent,110603,UK,541.9941021,11/8/2015 9:40,Other,Carolyn Silva,972
+Receive status update from clearing agent,110603,Germany,584.2939257,17-8-2015 09:48:15,Line management,Griffin Donaldson,973
+Create settlement instructions,110604,France,417.5086229,10/8/2015 15:03,Administration,Hunter Garcia,974
+Send settlement instructions to clearing agent,110604,Netherlands,656.7645941,11/8/2015 9:41,Other,Brady Wilson,975
+Receive status update from clearing agent,110604,Germany,461.5990184,11/8/2015 11:11,Other,Hashim Salinas,976
+Close outstanding settlement instructions and contractual journal,110592,France,949.141183,12/8/2015 12:23,Finance,Lars Walker,977
+Close outstanding settlement instructions and contractual journal,110593,France,821.2060908,11/8/2015 11:50,Finance,Lars Walker,978
+Close outstanding settlement instructions and contractual journal,110594,France,868.8125947,18-8-2015 07:47:36,Finance,Lars Walker,979
+Close outstanding settlement instructions and contractual journal,110595,UK,704.2656406,14-8-2015 10:51:17,Finance,Rebecca Love,980
+Close outstanding settlement instructions and contractual journal,110596,UK,976.574098,12/8/2015 11:38,Finance,Medge Patel,981
+Close outstanding settlement instructions and contractual journal,110597,UK,79.21280456,18-8-2015 09:31:28,Finance,Cullen Combs,982
+Close outstanding settlement instructions and contractual journal,110598,UK,372.274096,25-8-2015 15:13:00,Finance,Cullen Combs,983
+Close outstanding settlement instructions and contractual journal,110599,UK,241.4152732,17-8-2015 16:29:26,Finance,Cullen Combs,984
+Close outstanding settlement instructions and contractual journal,110600,UK,957.8547114,20-8-2015 11:33:08,Finance,Medge Patel,985
+Close outstanding settlement instructions and contractual journal,110601,UK,500.4413324,25-8-2015 15:13:20,Finance,Cullen Combs,986
+Close outstanding settlement instructions and contractual journal,110602,UK,405.5907181,13-8-2015 12:59:58,Finance,Cullen Combs,987
+Close outstanding settlement instructions and contractual journal,110603,France,68.62957886,18-8-2015 07:48:41,Finance,Lars Walker,988
+Close outstanding settlement instructions and contractual journal,110604,France,268.0300137,11/8/2015 11:51,Finance,Lars Walker,989
+Close outstanding settlement instructions and contractual journal,110595,UK,247.7723466,18-8-2015 16:06:10,Finance,Rebecca Love,990
+Create settlement instructions,110605,France,640.1019986,10/8/2015 15:04,Administration,Hunter Garcia,991
+Send settlement instructions to clearing agent,110605,UK,125.1678972,11/8/2015 9:42,Other,Jared Cotton,992
+Receive status update from clearing agent,110605,UK,443.0209396,13-8-2015 09:04:26,Other,Nathan Lewis,993
+Receive status update from clearing agent,110605,Germany,540.248544,14-8-2015 17:28:19,Auto-processor,System,994
+Receive status update from clearing agent,110605,Germany,769.9771108,25-8-2015 17:31:18,Other,Hashim Salinas,995
+Create settlement instructions,110606,France,793.1902351,10/8/2015 15:04,Administration,Hunter Garcia,996
+Send settlement instructions to clearing agent,110606,UK,485.2202935,11/8/2015 9:43,Other,Jared Cotton,997
+Send settlement instructions to clearing agent,110606,Switzerland,384.8688907,13-8-2015 09:03:44,Other,Grant Douglas,998
+Send settlement instructions to clearing agent,110606,Germany,555.3067838,13-8-2015 09:49:39,Other,Vaughan Waller,999
